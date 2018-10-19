@@ -55,7 +55,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -1754,6 +1755,33 @@
               "2",
               "[@bit4bit](https://github.com/bit4bit)/[**plivoxy**](https://github.com/bit4bit/plivoxy)",
               "Plivo proxy",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@jpvillaisaza](https://github.com/jpvillaisaza)/[**slack-web**](https://github.com/jpvillaisaza/slack-web)",
+              "Haskell bindings to the Slack web API",
+              ""
+            ],
+            [
+              "5",
+              "[@jpvillaisaza](https://github.com/jpvillaisaza)/[**mailchimp-haskell**](https://github.com/jpvillaisaza/mailchimp-haskell)",
+              "Haskell bindings for the MailChimp API",
               ""
             ]
           ]
