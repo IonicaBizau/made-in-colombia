@@ -54,7 +54,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -1673,6 +1674,87 @@
               "[@coffeegrid](https://github.com/coffeegrid)/[**devmed**](https://github.com/coffeegrid/devmed)",
               "/dev/med/ web site",
               "[:arrow_upper_right:](http://coffeegrid.org/dev/med/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "26",
+              "[@bit4bit](https://github.com/bit4bit)/[**gami**](https://github.com/bit4bit/gami)",
+              "GO - Asterisk AMI Interface",
+              ""
+            ],
+            [
+              "9",
+              "[@bit4bit](https://github.com/bit4bit)/[**remoton**](https://github.com/bit4bit/remoton)",
+              "(Go) Own remote desktop platform ",
+              ""
+            ],
+            [
+              "8",
+              "[@golangmedellin](https://github.com/golangmedellin)/[**gotalks**](https://github.com/golangmedellin/gotalks)",
+              "Golang Talks",
+              ""
+            ],
+            [
+              "5",
+              "[@castillobgr](https://github.com/castillobgr)/[**sententia**](https://github.com/castillobgr/sententia)",
+              "Generate random adjective-noun combinations, madlibs-style, in Golang. ",
+              "[:arrow_upper_right:](https://castillobgr.github.io/sententia/)"
+            ],
+            [
+              "3",
+              "[@Oxyrus](https://github.com/Oxyrus)/[**QuotesAPI**](https://github.com/Oxyrus/QuotesAPI)",
+              "Database-less Quotes API written in Go",
+              ""
+            ],
+            [
+              "3",
+              "[@djondb](https://github.com/djondb)/[**djondbgo**](https://github.com/djondb/djondbgo)",
+              "Go driver for djondb",
+              ""
+            ],
+            [
+              "3",
+              "[@castillobgr](https://github.com/castillobgr)/[**rgstr**](https://github.com/castillobgr/rgstr)",
+              "Automatically registers and de-registers rkt pods on Consul, etcd.",
+              ""
+            ],
+            [
+              "3",
+              "[@alexyslozada](https://github.com/alexyslozada)/[**tpaga**](https://github.com/alexyslozada/tpaga)",
+              "Paquete que permite realizar transacciones con la pasarela TPaga",
+              ""
+            ],
+            [
+              "2",
+              "[@alexyslozada](https://github.com/alexyslozada)/[**simple-rest**](https://github.com/alexyslozada/simple-rest)",
+              "Creación de una API REST",
+              ""
+            ],
+            [
+              "2",
+              "[@bit4bit](https://github.com/bit4bit)/[**gfsocket**](https://github.com/bit4bit/gfsocket)",
+              "GO client for Freeswitch-Inbound",
+              ""
+            ],
+            [
+              "2",
+              "[@bit4bit](https://github.com/bit4bit)/[**plivoxy**](https://github.com/bit4bit/plivoxy)",
+              "Plivo proxy",
+              ""
             ]
           ]
         }
