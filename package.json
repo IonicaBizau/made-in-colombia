@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -793,6 +794,201 @@
               "[@juandc](https://github.com/juandc)/[**juandc.github.io**](https://github.com/juandc/juandc.github.io)",
               ":hankey: Deprecated (but still working)...",
               "[:arrow_upper_right:](http://juandc.co)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "524",
+              "[@suarezjulian](https://github.com/suarezjulian)/[**WizardPager**](https://github.com/suarezjulian/WizardPager)",
+              "Wizard Pager is a library that provides an example implementation of a Wizard UI on Android, it's based of Roman Nurik's wizard pager (https://github.com/romannurik/android-w…",
+              ""
+            ],
+            [
+              "440",
+              "[@yesidlazaro](https://github.com/yesidlazaro)/[**BadgedImageview**](https://github.com/yesidlazaro/BadgedImageview)",
+              "BadgedImageview allow you show a badge into a Imageview.",
+              ""
+            ],
+            [
+              "283",
+              "[@jahirfiquitiva](https://github.com/jahirfiquitiva)/[**FABsMenu**](https://github.com/jahirfiquitiva/FABsMenu)",
+              "A simple library to use a menu of FloatingActionButtons from Design Support Library that follow Material Design Guidelines",
+              ""
+            ],
+            [
+              "175",
+              "[@jahirfiquitiva](https://github.com/jahirfiquitiva)/[**IconShowcase-Dashboa…**](https://github.com/jahirfiquitiva/IconShowcase-Dashboard)",
+              "A full-of-features, easy-to-customize, free and open source, Material Design dashboard for icon packs.",
+              ""
+            ],
+            [
+              "134",
+              "[@yesidlazaro](https://github.com/yesidlazaro)/[**DateRangePicker**](https://github.com/yesidlazaro/DateRangePicker)",
+              "A Dialogo fragment with date picker for select a range.",
+              ""
+            ],
+            [
+              "126",
+              "[@yesidlazaro](https://github.com/yesidlazaro)/[**GmailBackground**](https://github.com/yesidlazaro/GmailBackground)",
+              "a small library to send a email in background withou user interaction ",
+              ""
+            ],
+            [
+              "88",
+              "[@jahirfiquitiva](https://github.com/jahirfiquitiva)/[**IconShowcase**](https://github.com/jahirfiquitiva/IconShowcase)",
+              "Full-of-features, easy-to-customize, free and open source, Material Design dashboard for icon packs.",
+              ""
+            ],
+            [
+              "52",
+              "[@jahirfiquitiva](https://github.com/jahirfiquitiva)/[**PaperBoard-Final**](https://github.com/jahirfiquitiva/PaperBoard-Final)",
+              "Open Source Material Design dashboard for Icon Packs. No longer supported, updated nor maintained.",
+              ""
+            ],
+            [
+              "11",
+              "[@suarezjulian](https://github.com/suarezjulian)/[**RxTalk**](https://github.com/suarezjulian/RxTalk)",
+              "Samples demonstrating the use of RxJava on an Android project",
+              ""
+            ],
+            [
+              "7",
+              "[@xdanielsb](https://github.com/xdanielsb)/[**Patterns**](https://github.com/xdanielsb/Patterns)",
+              "Good practices to create code in Java. :zap:",
+              ""
+            ],
+            [
+              "6",
+              "[@jahirfiquitiva](https://github.com/jahirfiquitiva)/[**TextDrawable**](https://github.com/jahirfiquitiva/TextDrawable)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@EngAndres](https://github.com/EngAndres)/[**DataStructuresTempla…**](https://github.com/EngAndres/DataStructuresTemplates)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@felipeska](https://github.com/felipeska)/[**Movements**](https://github.com/felipeska/Movements)",
+              "Simple tracker for android",
+              ""
+            ],
+            [
+              "5",
+              "[@jahirfiquitiva](https://github.com/jahirfiquitiva)/[**KustomAPI**](https://github.com/jahirfiquitiva/KustomAPI)",
+              "A slightly up-to-date fork from Frank Monza's Kustom API https://bitbucket.org/frankmonza/kustoma…",
+              "[:arrow_upper_right:](https://bitbucket.org/frankmonza/kustomapi/)"
+            ],
+            [
+              "4",
+              "[@xdanielsb](https://github.com/xdanielsb)/[**Planaritytesting-Jav…**](https://github.com/xdanielsb/Planaritytesting-Java)",
+              "This project implements and  algorithm for testing whether a given graph is a planar graph. ",
+              ""
+            ],
+            [
+              "4",
+              "[@unmultimedio](https://github.com/unmultimedio)/[**cappacitate-medellin**](https://github.com/unmultimedio/cappacitate-medellin)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@felipeska](https://github.com/felipeska)/[**imdb**](https://github.com/felipeska/imdb)",
+              "un simple cliente para consultar peliculas o series",
+              ""
+            ],
+            [
+              "3",
+              "[@felipeska](https://github.com/felipeska)/[**MiniBank**](https://github.com/felipeska/MiniBank)",
+              "Aplicación que simula el funcionamiento de un banco",
+              ""
+            ],
+            [
+              "3",
+              "[@nakednous](https://github.com/nakednous)/[**remixcam**](https://github.com/nakednous/remixcam)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@felipeska](https://github.com/felipeska)/[**AndroidBadgeLibrary**](https://github.com/felipeska/AndroidBadgeLibrary)",
+              "Small library for creating round badge in Android",
+              ""
+            ],
+            [
+              "3",
+              "[@suarezjulian](https://github.com/suarezjulian)/[**AndroidReferenceArch…**](https://github.com/suarezjulian/AndroidReferenceArchitecture)",
+              "Sample architecture for android apps, using an MVP pattern, dagger2 and rxjava",
+              ""
+            ],
+            [
+              "3",
+              "[@llanox](https://github.com/llanox)/[**Mootify**](https://github.com/llanox/Mootify)",
+              "Simple android application to retrieve notifications from a moodle platform (http://udearroba.co/). That application has been developed by a group of android programming enthusiasts called CampusMovil from University of Antioquia (http://www.udea.edu.co) , located in Medellin-Colombia.",
+              "[:arrow_upper_right:](http://udearroba.co/)"
+            ],
+            [
+              "2",
+              "[@caipivara](https://github.com/caipivara)/[**Remote-Control**](https://github.com/caipivara/Remote-Control)",
+              "This project controls the pc from another device",
+              ""
+            ],
+            [
+              "2",
+              "[@suarezjulian](https://github.com/suarezjulian)/[**DemoSensores**](https://github.com/suarezjulian/DemoSensores)",
+              "Demo Sensores para curso Instrumentacion UAN",
+              ""
+            ],
+            [
+              "2",
+              "[@mnesarco](https://github.com/mnesarco)/[**mybatis-cdi-samples**](https://github.com/mnesarco/mybatis-cdi-samples)",
+              "Minimal samples of mybatis-cdi ready for deploy",
+              ""
+            ],
+            [
+              "2",
+              "[@mnesarco](https://github.com/mnesarco)/[**mybatis-jdbc**](https://github.com/mnesarco/mybatis-jdbc)",
+              "Utility to use MyBatis sql from plain old jdbc",
+              ""
+            ],
+            [
+              "2",
+              "[@nakednous](https://github.com/nakednous)/[**remixcamgl**](https://github.com/nakednous/remixcamgl)",
+              "gl plugin for remixcam",
+              ""
+            ],
+            [
+              "2",
+              "[@unmultimedio](https://github.com/unmultimedio)/[**cappacitate-pereira**](https://github.com/unmultimedio/cappacitate-pereira)",
+              "En este repositorio quedarán alojados los ejercicios de las sesiones de www.cappacitate.com edición 2015. En la ciudad de Pereira.",
+              ""
+            ],
+            [
+              "2",
+              "[@felipeska](https://github.com/felipeska)/[**Move**](https://github.com/felipeska/Move)",
+              "Android application for transit in public transport",
+              ""
+            ],
+            [
+              "2",
+              "[@suarezjulian](https://github.com/suarezjulian)/[**ChangingBackground**](https://github.com/suarezjulian/ChangingBackground)",
+              "Coding challenge for Ora Interactive",
+              ""
             ]
           ]
         }
