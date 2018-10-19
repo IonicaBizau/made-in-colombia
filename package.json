@@ -64,7 +64,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -3164,6 +3165,93 @@
               "2",
               "[@AlejandroME](https://github.com/AlejandroME)/[**ReaderM**](https://github.com/AlejandroME/ReaderM)",
               "Repository with a simple Microservice demonstrating some Functional Patterns",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "49",
+              "[@juanluisbaptiste](https://github.com/juanluisbaptiste)/[**docker-otrs**](https://github.com/juanluisbaptiste/docker-otrs)",
+              "Unofficial OTRS Ticketing System docker image",
+              ""
+            ],
+            [
+              "47",
+              "[@juanluisbaptiste](https://github.com/juanluisbaptiste)/[**docker-postfix**](https://github.com/juanluisbaptiste/docker-postfix)",
+              "Simple SMTP relay docker image.",
+              ""
+            ],
+            [
+              "15",
+              "[@juanluisbaptiste](https://github.com/juanluisbaptiste)/[**docker-bigbluebutton**](https://github.com/juanluisbaptiste/docker-bigbluebutton)",
+              "Unofficial docker BigBlueButton 0.81 docker image. This repository contains the Dockerfile and all other needed files to build the image.",
+              ""
+            ],
+            [
+              "11",
+              "[@nethalo](https://github.com/nethalo)/[**backup-scripts**](https://github.com/nethalo/backup-scripts)",
+              "Short collection of backup scripts. Mostly on bash",
+              ""
+            ],
+            [
+              "7",
+              "[@nethalo](https://github.com/nethalo)/[**mysql-tools**](https://github.com/nethalo/mysql-tools)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@imxb](https://github.com/imxb)/[**firefox-installer**](https://github.com/imxb/firefox-installer)",
+              "A script to install Firefox in Debian.",
+              ""
+            ],
+            [
+              "4",
+              "[@juanluisbaptiste](https://github.com/juanluisbaptiste)/[**docker-brew-mageia**](https://github.com/juanluisbaptiste/docker-brew-mageia)",
+              "Scripts and files to create Mageia official docker base images.",
+              ""
+            ],
+            [
+              "3",
+              "[@juanluisbaptiste](https://github.com/juanluisbaptiste)/[**docker-monero-wallet**](https://github.com/juanluisbaptiste/docker-monero-wallet)",
+              "Unofficial monero wallet GUI docker images",
+              ""
+            ],
+            [
+              "2",
+              "[@xergioalex](https://github.com/xergioalex)/[**ghostDocker**](https://github.com/xergioalex/ghostDocker)",
+              "XergioAleX Ghost Blog Configuration",
+              ""
+            ],
+            [
+              "2",
+              "[@SecHackLabs](https://github.com/SecHackLabs)/[**simpleaur**](https://github.com/SecHackLabs/simpleaur)",
+              "It repository has been moved to https://gitlab.com/sechacklabs/simpleaur",
+              ""
+            ],
+            [
+              "2",
+              "[@HackM3nt3](https://github.com/HackM3nt3)/[**ESET-evasion-metaspl…**](https://github.com/HackM3nt3/ESET-evasion-metasploit-loader)",
+              "it can evade ESET antivirus solution",
+              ""
+            ],
+            [
+              "2",
+              "[@dmontenegro](https://github.com/dmontenegro)/[**calculator**](https://github.com/dmontenegro/calculator)",
+              "",
               ""
             ]
           ]
