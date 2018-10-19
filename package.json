@@ -56,7 +56,8 @@
           "[C++](#c-2)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -1782,6 +1783,27 @@
               "5",
               "[@jpvillaisaza](https://github.com/jpvillaisaza)/[**mailchimp-haskell**](https://github.com/jpvillaisaza/mailchimp-haskell)",
               "Haskell bindings for the MailChimp API",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@HubertRonald](https://github.com/HubertRonald)/[**Gradient**](https://github.com/HubertRonald/Gradient)",
+              "mesh canvas",
               ""
             ]
           ]
