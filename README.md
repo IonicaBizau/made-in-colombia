@@ -5,7 +5,7 @@
 
  [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-colombia.svg)](https://www.npmjs.com/package/made-in-colombia) [![Downloads](https://img.shields.io/npm/dt/made-in-colombia.svg)](https://www.npmjs.com/package/made-in-colombia)
 
-> 🇨🇴 A list of cool projects made in colombia
+> 🇨🇴 A list of cool projects made in Colombia
 
 ## Contents
 
