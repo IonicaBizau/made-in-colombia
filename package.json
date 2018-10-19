@@ -52,7 +52,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -1502,6 +1503,153 @@
               "2",
               "[@loudertech](https://github.com/loudertech)/[**doctrine-odm**](https://github.com/loudertech/doctrine-odm)",
               "Doctrine ODM in Zephir",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "40",
+              "[@xtingray](https://github.com/xtingray)/[**tupi**](https://github.com/xtingray/tupi)",
+              "Tupi 2D Magic",
+              ""
+            ],
+            [
+              "21",
+              "[@edoren](https://github.com/edoren)/[**STP**](https://github.com/edoren/STP)",
+              "SFML TMX Parser -",
+              "[:arrow_upper_right:](edoren.github.io/STP)"
+            ],
+            [
+              "16",
+              "[@anaechavarria](https://github.com/anaechavarria)/[**SemilleroProgramacio…**](https://github.com/anaechavarria/SemilleroProgramacion)",
+              "Material para el semillero de programación",
+              ""
+            ],
+            [
+              "10",
+              "[@camilosw](https://github.com/camilosw)/[**ofxVideoMapping**](https://github.com/camilosw/ofxVideoMapping)",
+              "OpenFrameworks flexible addon for projection mapping",
+              ""
+            ],
+            [
+              "6",
+              "[@Trialcommand](https://github.com/Trialcommand)/[**ESP8266-Modbus-RTU-S…**](https://github.com/Trialcommand/ESP8266-Modbus-RTU-Slave)",
+              "ESP8266 Modbus RTU Slave",
+              ""
+            ],
+            [
+              "6",
+              "[@audoban](https://github.com/audoban)/[**Candil-Dock**](https://github.com/audoban/Candil-Dock)",
+              "Website",
+              "[:arrow_upper_right:](https://audoban.github.io/Candil-Dock/)"
+            ],
+            [
+              "5",
+              "[@Natzugen](https://github.com/Natzugen)/[**ExilliumS3-EP1**](https://github.com/Natzugen/ExilliumS3-EP1)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@audoban](https://github.com/audoban)/[**PlayBar**](https://github.com/audoban/PlayBar)",
+              "MPRIS2 client, written in QML for Plasma",
+              ""
+            ],
+            [
+              "4",
+              "[@Subv](https://github.com/Subv)/[**shiny-ninja**](https://github.com/Subv/shiny-ninja)",
+              "GBA Emulator written in C++.",
+              ""
+            ],
+            [
+              "4",
+              "[@Natzugen](https://github.com/Natzugen)/[**p4f-free-emu**](https://github.com/Natzugen/p4f-free-emu)",
+              "Automatically exported from code.google.com/p/p4f-free-emu",
+              ""
+            ],
+            [
+              "4",
+              "[@edoren](https://github.com/edoren)/[**Pacman**](https://github.com/edoren/Pacman)",
+              "Pacman clone made in SFML 2.*",
+              ""
+            ],
+            [
+              "4",
+              "[@xtingray](https://github.com/xtingray)/[**tupitube.desk**](https://github.com/xtingray/tupitube.desk)",
+              "TupiTube Desk Source Code",
+              ""
+            ],
+            [
+              "3",
+              "[@activata](https://github.com/activata)/[**FullBacano**](https://github.com/activata/FullBacano)",
+              "Filter",
+              ""
+            ],
+            [
+              "3",
+              "[@tille](https://github.com/tille)/[**Computer-Graphic**](https://github.com/tille/Computer-Graphic)",
+              "My solutions to some Computer Graphic challenges ",
+              ""
+            ],
+            [
+              "3",
+              "[@0xDCA](https://github.com/0xDCA)/[**competitive_programm…**](https://github.com/0xDCA/competitive_programming)",
+              "Solutions to competitive programming problems",
+              ""
+            ],
+            [
+              "2",
+              "[@Trialcommand](https://github.com/Trialcommand)/[**ESP8266-Modbus-RTU-M…**](https://github.com/Trialcommand/ESP8266-Modbus-RTU-Master)",
+              "ESP8266 Modbus RTU Master",
+              ""
+            ],
+            [
+              "2",
+              "[@Trialcommand](https://github.com/Trialcommand)/[**Arduino-Modbus-RTU-S…**](https://github.com/Trialcommand/Arduino-Modbus-RTU-Slave)",
+              "Arduino Modbus RTU Slave",
+              ""
+            ],
+            [
+              "2",
+              "[@Yefri97](https://github.com/Yefri97)/[**Introduction-to-Grap…**](https://github.com/Yefri97/Introduction-to-Graph-Theory)",
+              "Taller: Introducción a la Teoría de Grafos - Universidad Tecnológica de Pereria",
+              ""
+            ],
+            [
+              "2",
+              "[@Natzugen](https://github.com/Natzugen)/[**ExodusV2**](https://github.com/Natzugen/ExodusV2)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Natzugen](https://github.com/Natzugen)/[**Exodus-V1**](https://github.com/Natzugen/Exodus-V1)",
+              "My zTeam season 6 version",
+              ""
+            ],
+            [
+              "2",
+              "[@jadarve](https://github.com/jadarve)/[**spherepix**](https://github.com/jadarve/spherepix)",
+              "A data structure for processing spherical images.",
+              ""
+            ],
+            [
+              "2",
+              "[@edoren](https://github.com/edoren)/[**BlogCodes**](https://github.com/edoren/BlogCodes)",
+              "",
               ""
             ]
           ]
