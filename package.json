@@ -57,7 +57,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -1805,6 +1806,87 @@
               "[@HubertRonald](https://github.com/HubertRonald)/[**Gradient**](https://github.com/HubertRonald/Gradient)",
               "mesh canvas",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "71",
+              "[@oscardemoya](https://github.com/oscardemoya)/[**ODMSwipeSelector**](https://github.com/oscardemoya/ODMSwipeSelector)",
+              "A value selector for iOS with a swipe gesture.",
+              "[:arrow_upper_right:](https://twitter.com/odm)"
+            ],
+            [
+              "39",
+              "[@jaiversin](https://github.com/jaiversin)/[**JJTopMenu**](https://github.com/jaiversin/JJTopMenu)",
+              "Simple top menu with selected indicator.",
+              ""
+            ],
+            [
+              "13",
+              "[@einsteinx2](https://github.com/einsteinx2)/[**iSub-Music-Streamer-…**](https://github.com/einsteinx2/iSub-Music-Streamer-old-example)",
+              "NOTE: THIS CODE IS VERY OUTDATED AND DOES NOT REFLECT THE CURRENT STATE OF THE ISUB SOURCE CODE :) This is the source code for the final bug fix release of the first version of iSub. iSub is an iOS client for the open source music streaming software called Subsonic. More information on Subsonic can be obtained at subsonic.org and more information on iSub can be found at isubapp.com. All graphics have been removed because they are not licensed to allow me to distribute them freely. All code unless otherwise noted is copyright Ben Baron 2010, all rights reserved. Full license information at the top of each file.  The AudioStreamer class is copyright 2008 Matt Gallagher, modified by Ben Baron for use in the iSub project. The AsynchronousImageView and AsynchronousImageViewCached classed are copyright 2009 Slava Bushtruk, modified by Ben Baron for use in the iSub project.",
+              "[:arrow_upper_right:](http://isubapp.com)"
+            ],
+            [
+              "10",
+              "[@einsteinx2](https://github.com/einsteinx2)/[**EX2Kit**](https://github.com/einsteinx2/EX2Kit)",
+              "A set of categories and classes that I've written over the years (with a few bits written by others) for my iOS projects. Unless otherwise specified, all source code in EX2Kit is BSD licensed and may be freely used in any project, commercial or otherwise.",
+              ""
+            ],
+            [
+              "5",
+              "[@einsteinx2](https://github.com/einsteinx2)/[**libSub**](https://github.com/einsteinx2/libSub)",
+              "This repository is now deprecated and libSub has been merged into the main iSub code base and partially rewritten in Swift. Please see http://github.com/einsteinx2/iSub for current progress. Licensed under the GPL3.",
+              ""
+            ],
+            [
+              "4",
+              "[@Ecarrion](https://github.com/Ecarrion)/[**Haskell-IOS**](https://github.com/Ecarrion/Haskell-IOS)",
+              "IOS app that call Haskell code",
+              ""
+            ],
+            [
+              "4",
+              "[@david6p2](https://github.com/david6p2)/[**FreehandDrawingTut**](https://github.com/david6p2/FreehandDrawingTut)",
+              "ABC Letter Tracing Test",
+              ""
+            ],
+            [
+              "3",
+              "[@Ecarrion](https://github.com/Ecarrion)/[**iOS-Data-Structures**](https://github.com/Ecarrion/iOS-Data-Structures)",
+              "Some missing Data Structures and Algorithms for Objective-C",
+              ""
+            ],
+            [
+              "2",
+              "[@jaiversin](https://github.com/jaiversin)/[**SignalRConceptTest**](https://github.com/jaiversin/SignalRConceptTest)",
+              "Prueba de concepto de conexión entre clientes iOS, Android y Web usando SignalR",
+              ""
+            ],
+            [
+              "2",
+              "[@jCalaU](https://github.com/jCalaU)/[**MDW-GuiaiOS02-UIWebV…**](https://github.com/jCalaU/MDW-GuiaiOS02-UIWebView)",
+              "Guia para iPhone y iPad de Maestros del Web",
+              "[:arrow_upper_right:](http://www.maestrosdelweb.com/editorial/guia-iphone-e-ipad-uso-del-navegador-en-una-app/)"
+            ],
+            [
+              "2",
+              "[@jCalaU](https://github.com/jCalaU)/[**MDW-GuiaiOS04-UIImag…**](https://github.com/jCalaU/MDW-GuiaiOS04-UIImagePickerController)",
+              "Guia para iPhone y iPad de Maestros del Web",
+              "[:arrow_upper_right:](http://www.maestrosdelweb.com/editorial/guia-iphone-e-ipad-capturar-imagenes-desde-la-camara-del-iphone/)"
             ]
           ]
         }
