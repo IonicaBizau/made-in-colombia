@@ -49,7 +49,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -1274,6 +1275,51 @@
               "2",
               "[@soreygarcia](https://github.com/soreygarcia)/[**AppMovil-BarCamMed**](https://github.com/soreygarcia/AppMovil-BarCamMed)",
               "App Movil para Windows Phone",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@eldalo](https://github.com/eldalo)/[**wp-ted**](https://github.com/eldalo/wp-ted)",
+              "Theme based on WP Bones, with adaptation of Gulp and Bower.",
+              ""
+            ],
+            [
+              "2",
+              "[@yammadev](https://github.com/yammadev)/[**flag-icons**](https://github.com/yammadev/flag-icons)",
+              "A beautiful svg + png + sass + css collection of countries flags.",
+              ""
+            ],
+            [
+              "2",
+              "[@CodigoAdsi](https://github.com/CodigoAdsi)/[**loginPHP**](https://github.com/CodigoAdsi/loginPHP)",
+              "Creación de un login con Bootstrap, PHP y MySQL",
+              ""
+            ],
+            [
+              "2",
+              "[@ferestrepoca](https://github.com/ferestrepoca)/[**paradigmas-de-progra…**](https://github.com/ferestrepoca/paradigmas-de-programacion)",
+              "Paradigmas de programación UNAL",
+              ""
+            ],
+            [
+              "2",
+              "[@vany0114](https://github.com/vany0114)/[**Frontend-Automation-…**](https://github.com/vany0114/Frontend-Automation-with-Grunt-Less-and-BrowserSync)",
+              "This is a lab for AngularJS, Grunt, BrowserSync, Less and more...",
               ""
             ]
           ]
