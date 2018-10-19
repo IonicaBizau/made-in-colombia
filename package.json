@@ -53,7 +53,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -1651,6 +1652,27 @@
               "[@edoren](https://github.com/edoren)/[**BlogCodes**](https://github.com/edoren/BlogCodes)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@coffeegrid](https://github.com/coffeegrid)/[**devmed**](https://github.com/coffeegrid/devmed)",
+              "/dev/med/ web site",
+              "[:arrow_upper_right:](http://coffeegrid.org/dev/med/)"
             ]
           ]
         }
