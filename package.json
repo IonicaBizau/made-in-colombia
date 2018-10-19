@@ -63,7 +63,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -3106,6 +3107,63 @@
               "2",
               "[@guilleiguaran](https://github.com/guilleiguaran)/[**heroku-config-versio…**](https://github.com/guilleiguaran/heroku-config-versions)",
               "Configuration management for Heroku environment variables",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@cobaltolabs](https://github.com/cobaltolabs)/[**ScalaPrimavera**](https://github.com/cobaltolabs/ScalaPrimavera)",
+              "ScalaPrimavera is a project to bring the Scala power to the Spring world",
+              "[:arrow_upper_right:](http://scalaprimavera.org)"
+            ],
+            [
+              "7",
+              "[@yujikiriki](https://github.com/yujikiriki)/[**functional-domain**](https://github.com/yujikiriki/functional-domain)",
+              "Scala Functional Domain Example",
+              ""
+            ],
+            [
+              "3",
+              "[@AlejandroME](https://github.com/AlejandroME)/[**ScalaMDE_Writer_Stat…**](https://github.com/AlejandroME/ScalaMDE_Writer_State)",
+              "Repositorio que contiene el código usado para la charla de ScalaMDE de Marzo 2017.",
+              ""
+            ],
+            [
+              "2",
+              "[@jupco](https://github.com/jupco)/[**hackdo-rest-backend**](https://github.com/jupco/hackdo-rest-backend)",
+              "This repository contains the backend service which will be used to demonstrate how to build an API REST with AkkaHTTP and Scala",
+              ""
+            ],
+            [
+              "2",
+              "[@Kmellzie](https://github.com/Kmellzie)/[**monitor-dev**](https://github.com/Kmellzie/monitor-dev)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ErunamoJAZZ](https://github.com/ErunamoJAZZ)/[**docScala_es**](https://github.com/ErunamoJAZZ/docScala_es)",
+              "Repo paramantener las traducciones de la documentación de Scala en español (temporal)",
+              ""
+            ],
+            [
+              "2",
+              "[@AlejandroME](https://github.com/AlejandroME)/[**ReaderM**](https://github.com/AlejandroME/ReaderM)",
+              "Repository with a simple Microservice demonstrating some Functional Patterns",
               ""
             ]
           ]
