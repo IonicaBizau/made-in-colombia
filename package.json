@@ -58,7 +58,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -1887,6 +1888,27 @@
               "[@jCalaU](https://github.com/jCalaU)/[**MDW-GuiaiOS04-UIImag…**](https://github.com/jCalaU/MDW-GuiaiOS04-UIImagePickerController)",
               "Guia para iPhone y iPad de Maestros del Web",
               "[:arrow_upper_right:](http://www.maestrosdelweb.com/editorial/guia-iphone-e-ipad-capturar-imagenes-desde-la-camara-del-iphone/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@hexadev](https://github.com/hexadev)/[**Hexawiki**](https://github.com/hexadev/Hexawiki)",
+              "Versión de Foswiki de Hexa",
+              ""
             ]
           ]
         }
