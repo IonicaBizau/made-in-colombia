@@ -66,7 +66,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -3310,6 +3311,51 @@
               "2",
               "[@juandavidcruzs](https://github.com/juandavidcruzs)/[**ABitOfHumanity**](https://github.com/juandavidcruzs/ABitOfHumanity)",
               "WWDC 2017",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@alejogm0520](https://github.com/alejogm0520)/[**latexEAFIT**](https://github.com/alejogm0520/latexEAFIT)",
+              "A modern LATEX beamer theme for the Universidad EAFIT",
+              ""
+            ],
+            [
+              "3",
+              "[@mua-uniandes](https://github.com/mua-uniandes)/[**notebook**](https://github.com/mua-uniandes/notebook)",
+              "Programming contest notebook for uniandes programming contest teams",
+              ""
+            ],
+            [
+              "2",
+              "[@recanews](https://github.com/recanews)/[**2015_5**](https://github.com/recanews/2015_5)",
+              "RECANEWS Volumen 5 - Mayo 2015",
+              ""
+            ],
+            [
+              "2",
+              "[@forero](https://github.com/forero)/[**AndeanCosmologySchoo…**](https://github.com/forero/AndeanCosmologySchool)",
+              "Repository for all the material for the Andean School on Cosmology. June 1 - 26, 2015. Bogotá, Colombia.",
+              ""
+            ],
+            [
+              "2",
+              "[@forero](https://github.com/forero)/[**AstronomiaPopular**](https://github.com/forero/AstronomiaPopular)",
+              "Material del curso Astronomia Popular en la Universidad de los Andes (Colombia)",
               ""
             ]
           ]
