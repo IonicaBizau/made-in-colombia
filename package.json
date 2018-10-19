@@ -62,7 +62,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -2574,6 +2575,537 @@
               "2",
               "[@fhernanb](https://github.com/fhernanb)/[**cubm**](https://github.com/fhernanb/cubm)",
               "R package to fit cub models using maximum likelihood method",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "424",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**fakeredis**](https://github.com/guilleiguaran/fakeredis)",
+              "In-memory driver for redis-rb, useful for development and test environments",
+              "[:arrow_upper_right:](http://guilleiguaran.github.com/fakeredis)"
+            ],
+            [
+              "167",
+              "[@robertomiranda](https://github.com/robertomiranda)/[**has_secure_token**](https://github.com/robertomiranda/has_secure_token)",
+              "Create uniques random tokens for any model in ruby on rails. Backport of ActiveRecord::SecureToken 5 to AR 3.x and 4.x",
+              ""
+            ],
+            [
+              "74",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**nancy**](https://github.com/guilleiguaran/nancy)",
+              "Minimal Ruby microframework for web development inspired in Sinatra and Cuba.",
+              "[:arrow_upper_right:](http://guilleiguaran.github.com/nancy)"
+            ],
+            [
+              "68",
+              "[@orendon](https://github.com/orendon)/[**contrib-hub**](https://github.com/orendon/contrib-hub)",
+              "Open source lovers, making easier to find cool projects to hack on! Wanna help?",
+              "[:arrow_upper_right:](http://contribhub.org)"
+            ],
+            [
+              "32",
+              "[@dcu](https://github.com/dcu)/[**nanite-rails**](https://github.com/dcu/nanite-rails)",
+              "easy nanite integration with rails",
+              ""
+            ],
+            [
+              "28",
+              "[@dcu](https://github.com/dcu)/[**magent**](https://github.com/dcu/magent)",
+              "simple job queue system based on mongodb",
+              ""
+            ],
+            [
+              "26",
+              "[@dcu](https://github.com/dcu)/[**mongomapper_ext**](https://github.com/dcu/mongomapper_ext)",
+              "mongomapper extensions",
+              ""
+            ],
+            [
+              "21",
+              "[@kevyder](https://github.com/kevyder)/[**puffly**](https://github.com/kevyder/puffly)",
+              "Fun and cute flash messages for your ruby on @rails application. :+1:",
+              ""
+            ],
+            [
+              "20",
+              "[@esbanarango](https://github.com/esbanarango)/[**acts_as_inheritable**](https://github.com/esbanarango/acts_as_inheritable)",
+              "Inheritable functionality for ActiveRecord models.",
+              ""
+            ],
+            [
+              "18",
+              "[@rderoldan1](https://github.com/rderoldan1)/[**usagewatch_ext**](https://github.com/rderoldan1/usagewatch_ext)",
+              "Extended version of usagewatch",
+              ""
+            ],
+            [
+              "17",
+              "[@febuiles](https://github.com/febuiles)/[**auto_build**](https://github.com/febuiles/auto_build)",
+              "Automatically initialize associations in your Rails models",
+              ""
+            ],
+            [
+              "14",
+              "[@febuiles](https://github.com/febuiles)/[**makeitpersonal**](https://github.com/febuiles/makeitpersonal)",
+              "An experiment for music lovers.",
+              "[:arrow_upper_right:](makeitpersonal.co)"
+            ],
+            [
+              "14",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**sinatra-template**](https://github.com/guilleiguaran/sinatra-template)",
+              "My Sinatra template with Bundler, Rack config, Mongoid, RSpec2, SimpleCov and some useful Rake tasks.",
+              ""
+            ],
+            [
+              "14",
+              "[@dcu](https://github.com/dcu)/[**mongoid_ext**](https://github.com/dcu/mongoid_ext)",
+              "Mongoid Plugins",
+              ""
+            ],
+            [
+              "12",
+              "[@febuiles](https://github.com/febuiles)/[**s3share**](https://github.com/febuiles/s3share)",
+              "S3 uploading command-line tool",
+              ""
+            ],
+            [
+              "10",
+              "[@rderoldan1](https://github.com/rderoldan1)/[**learn-ruby**](https://github.com/rderoldan1/learn-ruby)",
+              "Learn about simple ruby sintaxis",
+              ""
+            ],
+            [
+              "10",
+              "[@gomayonqui](https://github.com/gomayonqui)/[**bancolombia**](https://github.com/gomayonqui/bancolombia)",
+              "A ruby script for checking your account balance through bancolombia virtual branch",
+              ""
+            ],
+            [
+              "10",
+              "[@EdgarOrtegaRamirez](https://github.com/EdgarOrtegaRamirez)/[**lita-team**](https://github.com/EdgarOrtegaRamirez/lita-team)",
+              "Create and manage the members of a team with Lita",
+              "[:arrow_upper_right:](http://lita.io)"
+            ],
+            [
+              "10",
+              "[@febuiles](https://github.com/febuiles)/[**cute_calendar**](https://github.com/febuiles/cute_calendar)",
+              "A Rails plugin to generate nice calendars.",
+              ""
+            ],
+            [
+              "10",
+              "[@esbanarango](https://github.com/esbanarango)/[**zapier-REST-hooks**](https://github.com/esbanarango/zapier-REST-hooks)",
+              "Rails engine that provides all the functionality/structure for Zapier REST hooks pattern.",
+              ""
+            ],
+            [
+              "10",
+              "[@DavidToca](https://github.com/DavidToca)/[**gitignore-gem**](https://github.com/DavidToca/gitignore-gem)",
+              "A gem to generate .gitignore files base on templates",
+              "[:arrow_upper_right:](https://rubygems.org/gems/gitignore)"
+            ],
+            [
+              "9",
+              "[@dcu](https://github.com/dcu)/[**multiauth**](https://github.com/dcu/multiauth)",
+              "authentication for rails 3 based on omniauth",
+              ""
+            ],
+            [
+              "8",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**minitest-vw**](https://github.com/guilleiguaran/minitest-vw)",
+              "Makes your failing Minitest test cases succeed under CI tools scrutiny",
+              ""
+            ],
+            [
+              "8",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**rogue**](https://github.com/guilleiguaran/rogue)",
+              "Minimal HTTP server for Rack applications powered by the superpowers of others",
+              ""
+            ],
+            [
+              "8",
+              "[@rderoldan1](https://github.com/rderoldan1)/[**financial_maths**](https://github.com/rderoldan1/financial_maths)",
+              "Some Financial Functions for loan amortization",
+              ""
+            ],
+            [
+              "7",
+              "[@dcu](https://github.com/dcu)/[**htmlconverter**](https://github.com/dcu/htmlconverter)",
+              "library/application to convert html to PDF, SVG or PNG",
+              ""
+            ],
+            [
+              "7",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**rambutan**](https://github.com/guilleiguaran/rambutan)",
+              "Ruby web microframework with Rails-ish controllers and routes.",
+              ""
+            ],
+            [
+              "7",
+              "[@germanescobar](https://github.com/germanescobar)/[**rails-bootstrap-moda…**](https://github.com/germanescobar/rails-bootstrap-modal)",
+              "An example that displays a view inside a Bootstrap modal in Rails.",
+              ""
+            ],
+            [
+              "7",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**rails4-ws-test**](https://github.com/guilleiguaran/rails4-ws-test)",
+              "A tiny demo using TubeSock WebSocket implementation",
+              ""
+            ],
+            [
+              "7",
+              "[@stellamiranda](https://github.com/stellamiranda)/[**Restaurantify**](https://github.com/stellamiranda/Restaurantify)",
+              "our first project",
+              ""
+            ],
+            [
+              "7",
+              "[@jfgomez86](https://github.com/jfgomez86)/[**number-to-words**](https://github.com/jfgomez86/number-to-words)",
+              "Translate any Integer between 1 and 999999999999 into spanish number words",
+              ""
+            ],
+            [
+              "6",
+              "[@robertomiranda](https://github.com/robertomiranda)/[**mini_mongo**](https://github.com/robertomiranda/mini_mongo)",
+              "Mini Mongo Mapper",
+              ""
+            ],
+            [
+              "6",
+              "[@luishurtado](https://github.com/luishurtado)/[**tor**](https://github.com/luishurtado/tor)",
+              "Ruby on Rails template handler for the rbTenjin template engine.",
+              ""
+            ],
+            [
+              "6",
+              "[@febuiles](https://github.com/febuiles)/[**gmail-contacts**](https://github.com/febuiles/gmail-contacts)",
+              "A Ruby gem for fetching a list of your GMail contacts.",
+              ""
+            ],
+            [
+              "5",
+              "[@esbanarango](https://github.com/esbanarango)/[**Saas-Class**](https://github.com/esbanarango/Saas-Class)",
+              "Assignments for the \"Software Engineering for Software as a Service\" class, taken at coursera.org",
+              ""
+            ],
+            [
+              "5",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**appengine-jruby**](https://github.com/guilleiguaran/appengine-jruby)",
+              "Git Mirror of https://code.google.com/p/appengine-jrub…",
+              "[:arrow_upper_right:](https://code.google.com/p/appengine-jruby/)"
+            ],
+            [
+              "5",
+              "[@febuiles](https://github.com/febuiles)/[**shipping_calc**](https://github.com/febuiles/shipping_calc)",
+              "Shipping Calculator written in Ruby to get quick quotes from the major carriers (UPS, DHL, FedEX, FreightQuote)",
+              "[:arrow_upper_right:](http://rubyforge.org/projects/shipping-calc/)"
+            ],
+            [
+              "5",
+              "[@febuiles](https://github.com/febuiles)/[**mdify**](https://github.com/febuiles/mdify)",
+              "Preview your Markdown documents",
+              ""
+            ],
+            [
+              "5",
+              "[@dcu](https://github.com/dcu)/[**gem2deb**](https://github.com/dcu/gem2deb)",
+              "convert ruby gem to debian package",
+              ""
+            ],
+            [
+              "5",
+              "[@germanescobar](https://github.com/germanescobar)/[**ukku**](https://github.com/germanescobar/ukku)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@febuiles](https://github.com/febuiles)/[**timer.rb**](https://github.com/febuiles/timer.rb)",
+              "A simple command-line timer.",
+              ""
+            ],
+            [
+              "4",
+              "[@orendon](https://github.com/orendon)/[**ruby-shop**](https://github.com/orendon/ruby-shop)",
+              "Basic eCommerce site, just to get some taste of Amazon S3, Heroku and the Rails stack.",
+              "[:arrow_upper_right:](http://ruby-shop.herokuapp.com/)"
+            ],
+            [
+              "4",
+              "[@febuiles](https://github.com/febuiles)/[**zomgtime**](https://github.com/febuiles/zomgtime)",
+              "current time in different timezones",
+              "[:arrow_upper_right:](http://zomgtime.com)"
+            ],
+            [
+              "4",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**heroku-config-rollba…**](https://github.com/guilleiguaran/heroku-config-rollback)",
+              "Allow roll back of values of the environment variables to a past release.",
+              ""
+            ],
+            [
+              "4",
+              "[@febuiles](https://github.com/febuiles)/[**zomgrss**](https://github.com/febuiles/zomgrss)",
+              "Create RSS feeds from Ruby collections.",
+              ""
+            ],
+            [
+              "4",
+              "[@EdgarOrtegaRamirez](https://github.com/EdgarOrtegaRamirez)/[**lito**](https://github.com/EdgarOrtegaRamirez/lito)",
+              "Lita: Bot in Ruby for ChatOps",
+              "[:arrow_upper_right:](http://lita-koombea.herokuapp.com/)"
+            ],
+            [
+              "4",
+              "[@gomayonqui](https://github.com/gomayonqui)/[**amazon_echo**](https://github.com/gomayonqui/amazon_echo)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@jfgomez86](https://github.com/jfgomez86)/[**Track-R**](https://github.com/jfgomez86/Track-R)",
+              "A small client library that uses PivotalTracker API",
+              "[:arrow_upper_right:](http://rubygems.org/gems/track-r)"
+            ],
+            [
+              "4",
+              "[@DavidToca](https://github.com/DavidToca)/[**learn-ruby-the-hard-…**](https://github.com/DavidToca/learn-ruby-the-hard-way)",
+              "Learn ruby the hard way excercises",
+              ""
+            ],
+            [
+              "4",
+              "[@esbanarango](https://github.com/esbanarango)/[**Topicos-Especiales-e…**](https://github.com/esbanarango/Topicos-Especiales-en-Telematica)",
+              "Assignments and exams for the Special Topics in Telematics course, EAFIT University",
+              ""
+            ],
+            [
+              "3",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**atmoos_server**](https://github.com/guilleiguaran/atmoos_server)",
+              "",
+              "[:arrow_upper_right:](http://atmoos.es)"
+            ],
+            [
+              "3",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**tracking_link**](https://github.com/guilleiguaran/tracking_link)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@febuiles](https://github.com/febuiles)/[**make_permalink**](https://github.com/febuiles/make_permalink)",
+              "Rails plugin to create permalinks in models",
+              ""
+            ],
+            [
+              "3",
+              "[@febuiles](https://github.com/febuiles)/[**usd2cop**](https://github.com/febuiles/usd2cop)",
+              "This project is now known as Tywin, see README.",
+              "[:arrow_upper_right:](http://github.com/febuiles/tywin)"
+            ],
+            [
+              "3",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**minirails**](https://github.com/guilleiguaran/minirails)",
+              "ActionController + Tilt experiment",
+              ""
+            ],
+            [
+              "3",
+              "[@dcu](https://github.com/dcu)/[**rr2fetcher**](https://github.com/dcu/rr2fetcher)",
+              "Download files from a rapidshare free account",
+              ""
+            ],
+            [
+              "3",
+              "[@luishurtado](https://github.com/luishurtado)/[**Facebook-Proxy-Serve…**](https://github.com/luishurtado/Facebook-Proxy-Server)",
+              "Sinatra app implementing Facebook proxy server authentication for iPhone apps developed with Titanium.",
+              ""
+            ],
+            [
+              "3",
+              "[@esbanarango](https://github.com/esbanarango)/[**slack-currency-infor…**](https://github.com/esbanarango/slack-currency-informer)",
+              "A bot that inform the currency rates in Slack.",
+              ""
+            ],
+            [
+              "3",
+              "[@febuiles](https://github.com/febuiles)/[**zodiac**](https://github.com/febuiles/zodiac)",
+              "A Rails plugin to get the zodiac sign on a given date",
+              ""
+            ],
+            [
+              "3",
+              "[@robertomiranda](https://github.com/robertomiranda)/[**PatientManager**](https://github.com/robertomiranda/PatientManager)",
+              "platform for the management of patients, schedule a doctor's medical records",
+              ""
+            ],
+            [
+              "3",
+              "[@MrCoffey](https://github.com/MrCoffey)/[**logstash-input-nats**](https://github.com/MrCoffey/logstash-input-nats)",
+              "NATS input plugin for Logstash",
+              ""
+            ],
+            [
+              "2",
+              "[@dcu](https://github.com/dcu)/[**fast_gem**](https://github.com/dcu/fast_gem)",
+              "load ruby gems faster",
+              ""
+            ],
+            [
+              "2",
+              "[@orendon](https://github.com/orendon)/[**ruby-koans**](https://github.com/orendon/ruby-koans)",
+              "My solution to ruby koans from edgecase (http://rubykoans.com)",
+              ""
+            ],
+            [
+              "2",
+              "[@luishurtado](https://github.com/luishurtado)/[**rbTenjin**](https://github.com/luishurtado/rbTenjin)",
+              "A copy of the Tenjin template system (Ruby implementation)",
+              "[:arrow_upper_right:](http://www.kuwata-lab.com/tenjin/)"
+            ],
+            [
+              "2",
+              "[@rderoldan1](https://github.com/rderoldan1)/[**ruby_chat**](https://github.com/rderoldan1/ruby_chat)",
+              "workshop for the telematics class",
+              ""
+            ],
+            [
+              "2",
+              "[@germanescobar](https://github.com/germanescobar)/[**memberships**](https://github.com/germanescobar/memberships)",
+              "An example to create a multi-tenant application in Rails 5, ideal for SaaS applications",
+              ""
+            ],
+            [
+              "2",
+              "[@jfgomez86](https://github.com/jfgomez86)/[**amigodulce**](https://github.com/jfgomez86/amigodulce)",
+              "Scripts para jugar al amigo dulce usando sinatra y net/smtp",
+              ""
+            ],
+            [
+              "2",
+              "[@jfgomez86](https://github.com/jfgomez86)/[**Odometer**](https://github.com/jfgomez86/Odometer)",
+              "small temporary training project",
+              ""
+            ],
+            [
+              "2",
+              "[@DavidToca](https://github.com/DavidToca)/[**pokemon-game-cli**](https://github.com/DavidToca/pokemon-game-cli)",
+              "Pokemon game in command line",
+              ""
+            ],
+            [
+              "2",
+              "[@davidpelaez](https://github.com/davidpelaez)/[**fbdoorman**](https://github.com/davidpelaez/fbdoorman)",
+              "Rails authentication with facebook single sign-on OR email & password using clearance and MiniFB",
+              ""
+            ],
+            [
+              "2",
+              "[@kevyder](https://github.com/kevyder)/[**time_ago_in_words_es**](https://github.com/kevyder/time_ago_in_words_es)",
+              "Traducción del método time_ago_in_words de Ruby on Rails a español",
+              "[:arrow_upper_right:](https://rubygems.org/gems/time_ago_in_words_es)"
+            ],
+            [
+              "2",
+              "[@esbanarango](https://github.com/esbanarango)/[**Storitter**](https://github.com/esbanarango/Storitter)",
+              "Simple project to get familiar with technologies used at Storific.",
+              ""
+            ],
+            [
+              "2",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**microspec**](https://github.com/guilleiguaran/microspec)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@esbanarango](https://github.com/esbanarango)/[**Vibra-Fitness**](https://github.com/esbanarango/Vibra-Fitness)",
+              "Vibra System",
+              ""
+            ],
+            [
+              "2",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**uglifier-rails**](https://github.com/guilleiguaran/uglifier-rails)",
+              "Uglifier adapter for the Rails asset pipeline.",
+              ""
+            ],
+            [
+              "2",
+              "[@febuiles](https://github.com/febuiles)/[**cp-taller**](https://github.com/febuiles/cp-taller)",
+              "Taler de Sinatra para Campus Party '10 Bogotá.",
+              ""
+            ],
+            [
+              "2",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**spea2**](https://github.com/guilleiguaran/spea2)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@febuiles](https://github.com/febuiles)/[**tywin**](https://github.com/febuiles/tywin)",
+              "A currency conversion Sinatra app",
+              "[:arrow_upper_right:](http://twitter.com/usd2cop)"
+            ],
+            [
+              "2",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**activeresource**](https://github.com/guilleiguaran/activeresource)",
+              "(Note: this is the temporary repository for extraction) REST on Rails. Wrap your RESTful web app with Ruby classes and work with them like Active Record models.",
+              "[:arrow_upper_right:](http://www.rubyonrails.org)"
+            ],
+            [
+              "2",
+              "[@febuiles](https://github.com/febuiles)/[**pamela**](https://github.com/febuiles/pamela)",
+              "Pamela is your personal Rake assistant.",
+              ""
+            ],
+            [
+              "2",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**taal**](https://github.com/guilleiguaran/taal)",
+              "Simple build service on the cloud",
+              ""
+            ],
+            [
+              "2",
+              "[@dcu](https://github.com/dcu)/[**message_hub**](https://github.com/dcu/message_hub)",
+              "A simple gem to fetch/send messages from/to facebook, twitter and gmail.",
+              ""
+            ],
+            [
+              "2",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**kasoba**](https://github.com/guilleiguaran/kasoba)",
+              "Interactive tool for large scale code refactors",
+              ""
+            ],
+            [
+              "2",
+              "[@rderoldan1](https://github.com/rderoldan1)/[**rails_country_select**](https://github.com/rderoldan1/rails_country_select)",
+              "Rails 3 country select tag gem",
+              ""
+            ],
+            [
+              "2",
+              "[@lauragarcia](https://github.com/lauragarcia)/[**twitter_client**](https://github.com/lauragarcia/twitter_client)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@guilleiguaran](https://github.com/guilleiguaran)/[**heroku-config-versio…**](https://github.com/guilleiguaran/heroku-config-versions)",
+              "Configuration management for Heroku environment variables",
               ""
             ]
           ]
