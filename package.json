@@ -48,7 +48,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -988,6 +989,291 @@
               "2",
               "[@suarezjulian](https://github.com/suarezjulian)/[**ChangingBackground**](https://github.com/suarezjulian/ChangingBackground)",
               "Coding challenge for Ora Interactive",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "185",
+              "[@tomasr](https://github.com/tomasr)/[**viasfora**](https://github.com/tomasr/viasfora)",
+              "A Visual Studio Extension containing miscellaneous improvements to the editor. ",
+              ""
+            ],
+            [
+              "102",
+              "[@robertoardila](https://github.com/robertoardila)/[**support-unity-memory…**](https://github.com/robertoardila/support-unity-memoryprofiler)",
+              "Extension for the existing Unity memory profiler project",
+              ""
+            ],
+            [
+              "42",
+              "[@tomasr](https://github.com/tomasr)/[**filemap**](https://github.com/tomasr/filemap)",
+              "Wrapper .NET Library for Win32 Memory Mapped Files API",
+              ""
+            ],
+            [
+              "24",
+              "[@tomasr](https://github.com/tomasr)/[**roslyn-colorizer**](https://github.com/tomasr/roslyn-colorizer)",
+              "A sample VS 14 editor extension that uses the Roslyn APIs to highlight parameter variables and field variables in C#/VB code.",
+              ""
+            ],
+            [
+              "19",
+              "[@Zulu55](https://github.com/Zulu55)/[**Lands**](https://github.com/Zulu55/Lands)",
+              "",
+              ""
+            ],
+            [
+              "18",
+              "[@tomasr](https://github.com/tomasr)/[**iis-etw-tracing**](https://github.com/tomasr/iis-etw-tracing)",
+              "IIS 8.5 ETW Tracing",
+              ""
+            ],
+            [
+              "13",
+              "[@soreygarcia](https://github.com/soreygarcia)/[**xamarin-forms-lab**](https://github.com/soreygarcia/xamarin-forms-lab)",
+              "Aplicación de ejemplo ",
+              ""
+            ],
+            [
+              "12",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Evolutionary-Neural-…**](https://github.com/HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots)",
+              "Neural networks + Genetic algorithm on unity",
+              "[:arrow_upper_right:](https://www.youtube.com/watch?v=ckSKdjosxc8)"
+            ],
+            [
+              "11",
+              "[@tomasr](https://github.com/tomasr)/[**LineAdornments**](https://github.com/tomasr/LineAdornments)",
+              "A sample VS2010 extension that hilights the current line in the text editor",
+              ""
+            ],
+            [
+              "11",
+              "[@Zulu55](https://github.com/Zulu55)/[**Products1**](https://github.com/Zulu55/Products1)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@tomasr](https://github.com/tomasr)/[**pipelinetesting**](https://github.com/tomasr/pipelinetesting)",
+              "BizTalk 2006 library for unit-testing pipelines and custom pipeline components",
+              ""
+            ],
+            [
+              "9",
+              "[@tomasr](https://github.com/tomasr)/[**KeywordClassifier**](https://github.com/tomasr/KeywordClassifier)",
+              "A sample VS2010/2012 extension that renders C# some keywords in a different color.",
+              ""
+            ],
+            [
+              "5",
+              "[@tomasr](https://github.com/tomasr)/[**VSColorsToSQL**](https://github.com/tomasr/VSColorsToSQL)",
+              "Tool to migrate VS color scheme to SQL Server Management Studio",
+              "[:arrow_upper_right:](http://winterdom.com/2007/10/colorschemesinsql2005managementstudio)"
+            ],
+            [
+              "5",
+              "[@MilherTovar](https://github.com/MilherTovar)/[**AE_Vision_Computatio…**](https://github.com/MilherTovar/AE_Vision_Computational)",
+              "Evolutives algorithms used in Computational Vision",
+              ""
+            ],
+            [
+              "4",
+              "[@tomasr](https://github.com/tomasr)/[**nulladapter**](https://github.com/tomasr/nulladapter)",
+              "My /dev/null Adapter for BizTalk Server",
+              "[:arrow_upper_right:](http://winterdom.com/weblog/2005/03/06/BizTalk2004NullSendAdapterSample.aspx)"
+            ],
+            [
+              "4",
+              "[@tomasr](https://github.com/tomasr)/[**btserrorlookup**](https://github.com/tomasr/btserrorlookup)",
+              "Utility to lookup the meaning of BizTalk error codes",
+              "[:arrow_upper_right:](http://winterdom.com/weblog/2007/05/15/BtsErrorLookup.aspx)"
+            ],
+            [
+              "4",
+              "[@JuanKRuiz](https://github.com/JuanKRuiz)/[**LinkSpider**](https://github.com/JuanKRuiz/LinkSpider)",
+              "Portable Class Library and Client to create sitemap.xml and search for links in a website",
+              ""
+            ],
+            [
+              "4",
+              "[@soreygarcia](https://github.com/soreygarcia)/[**CongresoVisible**](https://github.com/soreygarcia/CongresoVisible)",
+              "Step by step project using Congreso Visible public API",
+              "[:arrow_upper_right:](http://blog.soreygarcia.me/search/label/Congreso%20Visible)"
+            ],
+            [
+              "3",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**UnitySimpleInventory…**](https://github.com/HectorPulido/UnitySimpleInventorySystem)",
+              "Just a simple Unity Simple Inventory System for Unity, perfect for a RPG",
+              "[:arrow_upper_right:](https://www.youtube.com/watch?v=teGzfmo60WY)"
+            ],
+            [
+              "3",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Imitation-learning-i…**](https://github.com/HectorPulido/Imitation-learning-in-unity)",
+              "What if we record all the information in a game, and we record the player actions, then we train a neural network with that data? Thats what this is!",
+              "[:arrow_upper_right:](https://youtu.be/nwqnGh2FiUo)"
+            ],
+            [
+              "3",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**UnityTurnBasedCombat…**](https://github.com/HectorPulido/UnityTurnBasedCombatSystem)",
+              "Just a simple Turn Based Combat System for Unity, perfect for a RPG ",
+              "[:arrow_upper_right:](https://www.youtube.com/watch?v=cN2R9SwOMNc)"
+            ],
+            [
+              "3",
+              "[@tomasr](https://github.com/tomasr)/[**BetterXml**](https://github.com/tomasr/BetterXml)",
+              "VS2010 extension to improve the XML editor experience",
+              ""
+            ],
+            [
+              "3",
+              "[@tomasr](https://github.com/tomasr)/[**msmqactivities**](https://github.com/tomasr/msmqactivities)",
+              "MSMQ Activities for Windows Workflow Foundation",
+              "[:arrow_upper_right:](http://www.winterdom.com/weblog/2006/03/03/MSMQWorkflowActivitiesV1.aspx)"
+            ],
+            [
+              "3",
+              "[@tomasr](https://github.com/tomasr)/[**fixencoding**](https://github.com/tomasr/fixencoding)",
+              "My Fix Encoding Pipeline Components for BizTalk Server 2006",
+              "[:arrow_upper_right:](http://www.winterdom.com/weblog/2006/01/31/FixMessageEncodingCustomPipelineComponentSample.aspx)"
+            ],
+            [
+              "3",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Unity-MMO-Framework**](https://github.com/HectorPulido/Unity-MMO-Framework)",
+              "This is a Client/Server architecture based on TCP/UDP Sockets to be used in videogames",
+              ""
+            ],
+            [
+              "3",
+              "[@JuanKRuiz](https://github.com/JuanKRuiz)/[**WinFormsLocalization…**](https://github.com/JuanKRuiz/WinFormsLocalizationDemo)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@Zulu55](https://github.com/Zulu55)/[**Russia**](https://github.com/Zulu55/Russia)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Multi-layer-perceptr…**](https://github.com/HectorPulido/Multi-layer-perceptron)",
+              "Simple multilayer percepron (Neural network) made with C#",
+              "[:arrow_upper_right:](https://www.youtube.com/watch?v=VKffP0iHwzY)"
+            ],
+            [
+              "2",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Evolutionary-Neural-…**](https://github.com/HectorPulido/Evolutionary-Neural-Bots-On-Survival-Shooter)",
+              "Evolutionary Neural Networks on unity for bots Tool example",
+              ""
+            ],
+            [
+              "2",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Unity-Rewind-Mechani…**](https://github.com/HectorPulido/Unity-Rewind-Mechanic)",
+              "Simple mechanic of rewind time, perfect for games like braid",
+              "[:arrow_upper_right:](https://www.youtube.com/watch?v=YPiE-N4vD0U)"
+            ],
+            [
+              "2",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Chatbot-seq2seq-C-**](https://github.com/HectorPulido/Chatbot-seq2seq-C-)",
+              "Chatbot made with seq2seq learn",
+              ""
+            ],
+            [
+              "2",
+              "[@Zulu55](https://github.com/Zulu55)/[**ForeignExchangeMac2**](https://github.com/Zulu55/ForeignExchangeMac2)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Simple_Linear_Algebr…**](https://github.com/HectorPulido/Simple_Linear_Algebra)",
+              "Simple list of functions of matrices",
+              ""
+            ],
+            [
+              "2",
+              "[@stevensotelo](https://github.com/stevensotelo)/[**msf_modelo_transport…**](https://github.com/stevensotelo/msf_modelo_transporte)",
+              "Solución de problema de transportes con Microsoft Solver Foundation",
+              ""
+            ],
+            [
+              "2",
+              "[@serandvaraco](https://github.com/serandvaraco)/[**WorkshopMicroServici…**](https://github.com/serandvaraco/WorkshopMicroServicio)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@serandvaraco](https://github.com/serandvaraco)/[**WorkshopToolsForAPI**](https://github.com/serandvaraco/WorkshopToolsForAPI)",
+              "Workshop Tools For API ",
+              ""
+            ],
+            [
+              "2",
+              "[@JorgeGamba](https://github.com/JorgeGamba)/[**bdd-examples-teprest…**](https://github.com/JorgeGamba/bdd-examples-teprestamos)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lmassnoriega](https://github.com/lmassnoriega)/[**WP_UIDesign**](https://github.com/lmassnoriega/WP_UIDesign)",
+              "2nd. Class",
+              ""
+            ],
+            [
+              "2",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Simple-RTS-Made-With…**](https://github.com/HectorPulido/Simple-RTS-Made-With-Unity)",
+              "A simple real time strategy game made with unity",
+              ""
+            ],
+            [
+              "2",
+              "[@julitogtu](https://github.com/julitogtu)/[**WebApi**](https://github.com/julitogtu/WebApi)",
+              "WebApi",
+              ""
+            ],
+            [
+              "2",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Mario-maker-like-gam…**](https://github.com/HectorPulido/Mario-maker-like-game-made-with-unity)",
+              "Simple level maker made with unity and csharp",
+              ""
+            ],
+            [
+              "2",
+              "[@tomasr](https://github.com/tomasr)/[**cryptopipeline**](https://github.com/tomasr/cryptopipeline)",
+              "Custom Symmetric Encryption Pipeline Component for BizTalk Server 2006",
+              ""
+            ],
+            [
+              "2",
+              "[@HectorPulido](https://github.com/HectorPulido)/[**Contra-Like-game-mad…**](https://github.com/HectorPulido/Contra-Like-game-made-with-unity)",
+              "Sidescroll shooter based in contra made with unity",
+              ""
+            ],
+            [
+              "2",
+              "[@tomasr](https://github.com/tomasr)/[**sqltrackingquerysamp…**](https://github.com/tomasr/sqltrackingquerysample)",
+              "Sample application to query Windows Workflow persistence databases",
+              "[:arrow_upper_right:](http://www.winterdom.com/weblog/2006/01/23/SqlTrackingQuerySample.aspx)"
+            ],
+            [
+              "2",
+              "[@soreygarcia](https://github.com/soreygarcia)/[**AppMovil-BarCamMed**](https://github.com/soreygarcia/AppMovil-BarCamMed)",
+              "App Movil para Windows Phone",
               ""
             ]
           ]
