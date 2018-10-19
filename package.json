@@ -60,7 +60,8 @@
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -2218,6 +2219,327 @@
               "2",
               "[@robregonm](https://github.com/robregonm)/[**Yii-EmailLogRoute**](https://github.com/robregonm/Yii-EmailLogRoute)",
               "Extension for CEmailLogRoute Yii class in order to add more details to Errors.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "88",
+              "[@scastillo](https://github.com/scastillo)/[**siesta**](https://github.com/scastillo/siesta)",
+              "Sit back, relax and enjoy your REST client for python",
+              "[:arrow_upper_right:](scastillo.github.com/siesta)"
+            ],
+            [
+              "88",
+              "[@scvalencia](https://github.com/scvalencia)/[**Coddie**](https://github.com/scvalencia/Coddie)",
+              "An Interpreter for Extended Relational Algebra (Scheme based)",
+              ""
+            ],
+            [
+              "51",
+              "[@diegoalejogm](https://github.com/diegoalejogm)/[**deep-q-learning**](https://github.com/diegoalejogm/deep-q-learning)",
+              "PyTorch Implementation of Deep Q-Learning with Experience Replay in Atari Game Environments, as made public by Google DeepMind",
+              ""
+            ],
+            [
+              "27",
+              "[@maoaiz](https://github.com/maoaiz)/[**tsp-genetic-python**](https://github.com/maoaiz/tsp-genetic-python)",
+              "A genetic algorithm to solve the Travelling Salesman Problem, implemented in Python.",
+              ""
+            ],
+            [
+              "26",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**dapi**](https://github.com/ingenieroariel/dapi)",
+              "Django RESTful API",
+              ""
+            ],
+            [
+              "22",
+              "[@jofpin](https://github.com/jofpin)/[**sack**](https://github.com/jofpin/sack)",
+              "Identify connection of sessions for social engineering attacks.",
+              "[:arrow_upper_right:](https://github.com/boxug/trape)"
+            ],
+            [
+              "21",
+              "[@jofpin](https://github.com/jofpin)/[**fuckshell**](https://github.com/jofpin/fuckshell)",
+              "Simple Webshell Scanner",
+              ""
+            ],
+            [
+              "20",
+              "[@julian-amaya](https://github.com/julian-amaya)/[**django-decorators**](https://github.com/julian-amaya/django-decorators)",
+              "django-decorators",
+              ""
+            ],
+            [
+              "16",
+              "[@jofpin](https://github.com/jofpin)/[**compaXSS**](https://github.com/jofpin/compaXSS)",
+              "Bypass XSS Reflected Cross-site scripting",
+              ""
+            ],
+            [
+              "14",
+              "[@jofpin](https://github.com/jofpin)/[**backcookie**](https://github.com/jofpin/backcookie)",
+              "Small backdoor using cookie.",
+              ""
+            ],
+            [
+              "13",
+              "[@andfoy](https://github.com/andfoy)/[**textobjdetection**](https://github.com/andfoy/textobjdetection)",
+              "Code for the Human-related Object Detection based on Natural Language Parsing of Image Query Expressions article",
+              ""
+            ],
+            [
+              "11",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**bccgis**](https://github.com/ingenieroariel/bccgis)",
+              "GeoDash Admin Training at BCC",
+              ""
+            ],
+            [
+              "8",
+              "[@scvalencia](https://github.com/scvalencia)/[**algorist**](https://github.com/scvalencia/algorist)",
+              "A collection of algorithms and data structures implemented in the python programming language. Nothing serious, just a training canvas for basic and advanced algorithms and data structures.",
+              ""
+            ],
+            [
+              "8",
+              "[@scvalencia](https://github.com/scvalencia)/[**UVACommandLine**](https://github.com/scvalencia/UVACommandLine)",
+              "UVA command line client to upload solutions and search for statistics",
+              ""
+            ],
+            [
+              "7",
+              "[@julian-amaya](https://github.com/julian-amaya)/[**simplecrm**](https://github.com/julian-amaya/simplecrm)",
+              "a django simple crm",
+              ""
+            ],
+            [
+              "7",
+              "[@odarbelaeze](https://github.com/odarbelaeze)/[**neural-network**](https://github.com/odarbelaeze/neural-network)",
+              "A simple neural network written in Python intended as an example to help people get started with AI",
+              ""
+            ],
+            [
+              "6",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**pinax**](https://github.com/ingenieroariel/pinax)",
+              "My working copy of the pinax project",
+              "[:arrow_upper_right:](http://pinaxproject.com)"
+            ],
+            [
+              "6",
+              "[@jofpin](https://github.com/jofpin)/[**brutto**](https://github.com/jofpin/brutto)",
+              "Easy brute forcing to whatever you want - Jose Pino",
+              ""
+            ],
+            [
+              "6",
+              "[@rlaverde](https://github.com/rlaverde)/[**lektor-static-search**](https://github.com/rlaverde/lektor-static-search)",
+              "Lektor plugin for serialize sources contents to json for using with static search js libraries",
+              ""
+            ],
+            [
+              "5",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**gs-science**](https://github.com/ingenieroariel/gs-science)",
+              "Python API for Geoserver",
+              ""
+            ],
+            [
+              "4",
+              "[@JorgeMartinezG](https://github.com/JorgeMartinezG)/[**spatio-temporal-cont…**](https://github.com/JorgeMartinezG/spatio-temporal-context-tracking)",
+              "http://www4.comp.polyu.edu.hk/~cslzhang/…",
+              ""
+            ],
+            [
+              "4",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**alaba**](https://github.com/ingenieroariel/alaba)",
+              "Ayudas para cantar alabanzas",
+              ""
+            ],
+            [
+              "4",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**dondevoto**](https://github.com/ingenieroariel/dondevoto)",
+              "dondevoto source code",
+              "[:arrow_upper_right:](endondevoto.com)"
+            ],
+            [
+              "4",
+              "[@maoaiz](https://github.com/maoaiz)/[**django-admin-conf-va…**](https://github.com/maoaiz/django-admin-conf-vars)",
+              "A simple Django app to edit configuration variables with the Django admin.",
+              ""
+            ],
+            [
+              "4",
+              "[@odarbelaeze](https://github.com/odarbelaeze)/[**condor-ir**](https://github.com/odarbelaeze/condor-ir)",
+              "A simple lsa engine written in python3",
+              ""
+            ],
+            [
+              "4",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**webandgis**](https://github.com/ingenieroariel/webandgis)",
+              "Lean and mean geospatial layers management, based on Django",
+              ""
+            ],
+            [
+              "4",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**agromapas**](https://github.com/ingenieroariel/agromapas)",
+              "Simple KML generation with ExtJS frontend",
+              ""
+            ],
+            [
+              "3",
+              "[@CarMoreno](https://github.com/CarMoreno)/[**Vibora**](https://github.com/CarMoreno/Vibora)",
+              ":snake: Calculator built on Python 3.4 and PyQT.",
+              ""
+            ],
+            [
+              "3",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**osgeobd**](https://github.com/ingenieroariel/osgeobd)",
+              "Playing with OSM data in Dhaka",
+              ""
+            ],
+            [
+              "3",
+              "[@diegoalejogm](https://github.com/diegoalejogm)/[**library.ml**](https://github.com/diegoalejogm/library.ml)",
+              "Machine Learning Library built from scratch",
+              ""
+            ],
+            [
+              "3",
+              "[@CarMoreno](https://github.com/CarMoreno)/[**DaftPynk**](https://github.com/CarMoreno/DaftPynk)",
+              ":alien: DaftpunkConsole with PyQT and Pygame: Harder Better, Faster Stronger :musical_note:",
+              ""
+            ],
+            [
+              "3",
+              "[@pcu4dros](https://github.com/pcu4dros)/[**pandora-time**](https://github.com/pcu4dros/pandora-time)",
+              "Task manager with flask and restful",
+              ""
+            ],
+            [
+              "3",
+              "[@panchicore](https://github.com/panchicore)/[**mangoproject**](https://github.com/panchicore/mangoproject)",
+              "project with learning django porpouses",
+              ""
+            ],
+            [
+              "3",
+              "[@yograterol](https://github.com/yograterol)/[**python-ctrldaemon**](https://github.com/yograterol/python-ctrldaemon)",
+              "Service command wrapper for Python",
+              ""
+            ],
+            [
+              "3",
+              "[@maoaiz](https://github.com/maoaiz)/[**MiniSQL-Compiler**](https://github.com/maoaiz/MiniSQL-Compiler)",
+              "Compilador Mini SQL desarrollado en Python con PLY",
+              ""
+            ],
+            [
+              "3",
+              "[@goanpeca](https://github.com/goanpeca)/[**mike2ras**](https://github.com/goanpeca/mike2ras)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@serpulga](https://github.com/serpulga)/[**threaded-tcp-sever**](https://github.com/serpulga/threaded-tcp-sever)",
+              "A threaded TCP server written in Python using PySide",
+              ""
+            ],
+            [
+              "2",
+              "[@maoaiz](https://github.com/maoaiz)/[**django-crud-example**](https://github.com/maoaiz/django-crud-example)",
+              "Django crud example",
+              "[:arrow_upper_right:](http://demos.mauricioaizaga.com/)"
+            ],
+            [
+              "2",
+              "[@goanpeca](https://github.com/goanpeca)/[**QCondaManager**](https://github.com/goanpeca/QCondaManager)",
+              "A stand alone PyQt/PySide application for managing conda packages",
+              "[:arrow_upper_right:](https://github.com/goanpeca/QCondaManager)"
+            ],
+            [
+              "2",
+              "[@goanpeca](https://github.com/goanpeca)/[**appveyor-client**](https://github.com/goanpeca/appveyor-client)",
+              "Appveyor Python Client",
+              ""
+            ],
+            [
+              "2",
+              "[@julian-amaya](https://github.com/julian-amaya)/[**dss**](https://github.com/julian-amaya/dss)",
+              "Death Star Sensor Management - Framework Challenge",
+              ""
+            ],
+            [
+              "2",
+              "[@andfoy](https://github.com/andfoy)/[**vqa-detection**](https://github.com/andfoy/vqa-detection)",
+              "Object detection-based Visual Question Answering",
+              ""
+            ],
+            [
+              "2",
+              "[@jofpin](https://github.com/jofpin)/[**FSpuerto**](https://github.com/jofpin/FSpuerto)",
+              "Escaner de puertos simple",
+              ""
+            ],
+            [
+              "2",
+              "[@iris9112](https://github.com/iris9112)/[**Pycon2018_Fractals**](https://github.com/iris9112/Pycon2018_Fractals)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**geonodedocs**](https://github.com/ingenieroariel/geonodedocs)",
+              "Provisional copy of the next generation GeoNode docs",
+              ""
+            ],
+            [
+              "2",
+              "[@ingenieroariel](https://github.com/ingenieroariel)/[**geonode-safe**](https://github.com/ingenieroariel/geonode-safe)",
+              "Web based version of SAFE. More information available at http://inasafe.org",
+              ""
+            ],
+            [
+              "2",
+              "[@scastillo](https://github.com/scastillo)/[**beloved**](https://github.com/scastillo/beloved)",
+              "Never forget your beloved stuff - a django-nonrel, tastypie adventure -",
+              ""
+            ],
+            [
+              "2",
+              "[@panchicore](https://github.com/panchicore)/[**tastekit-py**](https://github.com/panchicore/tastekit-py)",
+              "client of the restful tastekit.api-docs.io",
+              ""
+            ],
+            [
+              "2",
+              "[@jofpin](https://github.com/jofpin)/[**smallpy**](https://github.com/jofpin/smallpy)",
+              "Small scripts in python",
+              ""
+            ],
+            [
+              "2",
+              "[@diegoalejogm](https://github.com/diegoalejogm)/[**gym_gridworld**](https://github.com/diegoalejogm/gym_gridworld)",
+              "Easy to use Gridworld OpenAI Gym Environment, presented in the Reinforcement Learning book by Sutton and Barto.",
+              ""
+            ],
+            [
+              "2",
+              "[@echevemaster](https://github.com/echevemaster)/[**devhub**](https://github.com/echevemaster/devhub)",
+              "Community site for FLOSS developers",
               ""
             ]
           ]
