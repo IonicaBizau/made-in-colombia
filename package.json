@@ -65,7 +65,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -3252,6 +3253,63 @@
               "2",
               "[@dmontenegro](https://github.com/dmontenegro)/[**calculator**](https://github.com/dmontenegro/calculator)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "10",
+              "[@darincon](https://github.com/darincon)/[**MaskedLabel**](https://github.com/darincon/MaskedLabel)",
+              "MaskedLabel is a UILabel subclass that allows you to easily apply a gradient to its text or to make it transparent.",
+              ""
+            ],
+            [
+              "10",
+              "[@juandavidcruzs](https://github.com/juandavidcruzs)/[**Mercadolibre-iOS-SDK**](https://github.com/juandavidcruzs/Mercadolibre-iOS-SDK)",
+              "Mercadolibre iOS SDK written in Swift / API iOS de Mercadolibre escrita en Swift",
+              ""
+            ],
+            [
+              "6",
+              "[@jpachecou](https://github.com/jpachecou)/[**SwiftyHelpers**](https://github.com/jpachecou/SwiftyHelpers)",
+              "Swifty Helpers - All things are easier with SwiftyHelpers",
+              ""
+            ],
+            [
+              "3",
+              "[@Rojke34](https://github.com/Rojke34)/[**pingpong**](https://github.com/Rojke34/pingpong)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@jpachecou](https://github.com/jpachecou)/[**VIPER-Module-Generat…**](https://github.com/jpachecou/VIPER-Module-Generator)",
+              "VIPER Module Generator - Simple Viper module generator with graphic interface easier of using",
+              ""
+            ],
+            [
+              "2",
+              "[@juanmjimenezs](https://github.com/juanmjimenezs)/[**FireFun**](https://github.com/juanmjimenezs/FireFun)",
+              "A project to Learn Firebase in an iOS app with Swift 3, in this app you can login, register, remember password and write and erase your private notes.",
+              ""
+            ],
+            [
+              "2",
+              "[@juandavidcruzs](https://github.com/juandavidcruzs)/[**ABitOfHumanity**](https://github.com/juandavidcruzs/ABitOfHumanity)",
+              "WWDC 2017",
               ""
             ]
           ]
