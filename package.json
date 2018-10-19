@@ -50,7 +50,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -1320,6 +1321,63 @@
               "2",
               "[@vany0114](https://github.com/vany0114)/[**Frontend-Automation-…**](https://github.com/vany0114/Frontend-Automation-with-Grunt-Less-and-BrowserSync)",
               "This is a lab for AngularJS, Grunt, BrowserSync, Less and more...",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "106",
+              "[@jasalo](https://github.com/jasalo)/[**funcssion**](https://github.com/jasalo/funcssion)",
+              "The atomic CSS library",
+              "[:arrow_upper_right:](http://www.funcssion.com)"
+            ],
+            [
+              "15",
+              "[@gndx](https://github.com/gndx)/[**GResume**](https://github.com/gndx/GResume)",
+              "Free HTML Professional Resume CV Template",
+              ""
+            ],
+            [
+              "8",
+              "[@jgomezpe](https://github.com/jgomezpe)/[**unalcol**](https://github.com/jgomezpe/unalcol)",
+              "Unified Algorithm Collection",
+              ""
+            ],
+            [
+              "2",
+              "[@jgomezpe](https://github.com/jgomezpe)/[**quilt**](https://github.com/jgomezpe/quilt)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@claudiainbytes](https://github.com/claudiainbytes)/[**ruby-sinatra-worksho…**](https://github.com/claudiainbytes/ruby-sinatra-workshops-school)",
+              "This is a demo app to create workshops using Ruby and Sinatra. Milligram as micro CSS Framework.  Demo https://youtu.be/SjhnDFsz47A",
+              ""
+            ],
+            [
+              "2",
+              "[@psirusteam](https://github.com/psirusteam)/[**TRI**](https://github.com/psirusteam/TRI)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@j0sephandres1987](https://github.com/j0sephandres1987)/[**Pinrails**](https://github.com/j0sephandres1987/Pinrails)",
+              "Ruby on rails based Pinterest clone.",
               ""
             ]
           ]
