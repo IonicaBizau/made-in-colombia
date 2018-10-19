@@ -59,7 +59,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -1908,6 +1909,315 @@
               "2",
               "[@hexadev](https://github.com/hexadev)/[**Hexawiki**](https://github.com/hexadev/Hexawiki)",
               "Versión de Foswiki de Hexa",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1055",
+              "[@santigarcor](https://github.com/santigarcor)/[**laratrust**](https://github.com/santigarcor/laratrust)",
+              "Handle roles and permissions in your Laravel application",
+              ""
+            ],
+            [
+              "165",
+              "[@mpratt](https://github.com/mpratt)/[**Embera**](https://github.com/mpratt/Embera)",
+              "A Oembed consumer library, that gives you information about urls. It helps you replace urls to youtube or vimeo for example, with their html embed code.",
+              ""
+            ],
+            [
+              "78",
+              "[@robregonm](https://github.com/robregonm)/[**yii2-auth**](https://github.com/robregonm/yii2-auth)",
+              "Yii 2 User Authentication & Role Based Access Control (RBAC) Module",
+              ""
+            ],
+            [
+              "67",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**RESTful-API-with-Lar…**](https://github.com/JuanDMeGon/RESTful-API-with-Laravel-Definitive-Guide)",
+              "Repository with the base code for the course \"RESTful API with Laravel - Definitive-Guide\"",
+              "[:arrow_upper_right:](https://www.udemy.com/restful-api-with-laravel-php-homestead-passport-hateoas/?couponCode=SOCIAL_LOW)"
+            ],
+            [
+              "50",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**API-RESTful-con-Lara…**](https://github.com/JuanDMeGon/API-RESTful-con-Laravel-Guia-Definitiva)",
+              "Repositorio para el código base del curso \"API RESTful con Laravel - Guía Definitiva\"",
+              "[:arrow_upper_right:](https://www.udemy.com/api-restful-con-laravel-php-homestead-passport/?couponCode=SOCIAL_LOW)"
+            ],
+            [
+              "45",
+              "[@mpratt](https://github.com/mpratt)/[**The-Simple-LifeStrea…**](https://github.com/mpratt/The-Simple-LifeStream)",
+              "A very simple and flexible library written in PHP for your life-streaming purposes. It supports a bunch of third party services like Youtube, StackOverflow, Reddit and Github.",
+              "[:arrow_upper_right:](http://www.michael-pratt.com/blog/4/Lifestreaming-hecho-f-cil-/)"
+            ],
+            [
+              "42",
+              "[@robregonm](https://github.com/robregonm)/[**yii2-pdf**](https://github.com/robregonm/yii2-pdf)",
+              "PDF Reports from HTML Views (Html to PDF formatter) for Yii 2.0",
+              ""
+            ],
+            [
+              "40",
+              "[@joselfonseca](https://github.com/joselfonseca)/[**laravel-tactician**](https://github.com/joselfonseca/laravel-tactician)",
+              "Laravel Tactician is an implementation of the Command Bus Tactician by Ross Tuck.",
+              ""
+            ],
+            [
+              "40",
+              "[@prinick96](https://github.com/prinick96)/[**Ocrend-Framework**](https://github.com/prinick96/Ocrend-Framework)",
+              "Ocrend Framework Repositorio Oficial, Comunidad en https://foro.ocrend.com",
+              "[:arrow_upper_right:](https://framework.ocrend.com)"
+            ],
+            [
+              "25",
+              "[@sinfocol](https://github.com/sinfocol)/[**vboxdie-cracker**](https://github.com/sinfocol/vboxdie-cracker)",
+              "VirtualBox Disk Image Encryption password cracker",
+              ""
+            ],
+            [
+              "23",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**myownapi**](https://github.com/JuanDMeGon/myownapi)",
+              "This is a repository of a completely functional API, developed with Laravel",
+              "[:arrow_upper_right:](https://www.udemy.com/laravel-5-php-framework-agile-and-practical-php-restful-api/?couponCode=social)"
+            ],
+            [
+              "22",
+              "[@gigo6000](https://github.com/gigo6000)/[**Symfony2-Pagination-…**](https://github.com/gigo6000/Symfony2-Pagination-Class)",
+              "",
+              "[:arrow_upper_right:](http://devtime.blogspot.com/2011/05/symfony2-twig-pagination-class.html)"
+            ],
+            [
+              "21",
+              "[@mpratt](https://github.com/mpratt)/[**RelativeTime**](https://github.com/mpratt/RelativeTime)",
+              "A library that calculates the time difference between two dates and returns the result in words (Example: 5 minutes ago or 5 Minutes left). The library supports other languages aswell like Spanish and German.",
+              ""
+            ],
+            [
+              "21",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**LumenAPI-Eng**](https://github.com/JuanDMeGon/LumenAPI-Eng)",
+              "Repository for the \"RESTful API with Lumen\" course",
+              "[:arrow_upper_right:](https://www.udemy.com/lumen-restful-api-and-homestead-for-lumen-by-laravel-and-php/?couponCode=social)"
+            ],
+            [
+              "19",
+              "[@robregonm](https://github.com/robregonm)/[**authbooster**](https://github.com/robregonm/authbooster)",
+              "Auth Module for YiiFramework comaptible with YiiBooster",
+              ""
+            ],
+            [
+              "18",
+              "[@WebMaestroFr](https://github.com/WebMaestroFr)/[**wm-settings**](https://github.com/WebMaestroFr/wm-settings)",
+              "Based on the WordPress Settings API, this class generates options pages. It supports all basic input types, selects and all, but also media uploads, which is quite neat.",
+              "[:arrow_upper_right:](http://webmaestro.fr/wordpress-settings-api-options-pages/)"
+            ],
+            [
+              "15",
+              "[@robregonm](https://github.com/robregonm)/[**YiiFirebird**](https://github.com/robregonm/YiiFirebird)",
+              "Firebird Adapter for Yii 1.1.x",
+              ""
+            ],
+            [
+              "14",
+              "[@apipemc](https://github.com/apipemc)/[**slim-skeleton**](https://github.com/apipemc/slim-skeleton)",
+              "Structure to start a project from scratch",
+              ""
+            ],
+            [
+              "12",
+              "[@joselfonseca](https://github.com/joselfonseca)/[**image-manager**](https://github.com/joselfonseca/image-manager)",
+              "image manager for Laravel apps [DEPRECATED]",
+              "[:arrow_upper_right:](https://josefonseca.me)"
+            ],
+            [
+              "11",
+              "[@epayco](https://github.com/epayco)/[**Plugin_ePayco_WooCom…**](https://github.com/epayco/Plugin_ePayco_WooCommerce)",
+              "Reciba pagos online con tarjetas de credito, debito PSE, Efectivo y SafetyPay en menos de 24 Horas con multiples herramientas.",
+              ""
+            ],
+            [
+              "9",
+              "[@joselfonseca](https://github.com/joselfonseca)/[**laravel-api-tools**](https://github.com/joselfonseca/laravel-api-tools)",
+              "Some tools i use for my API Development in laravel. Nothing new, just some wrappers. ",
+              ""
+            ],
+            [
+              "9",
+              "[@santigarcor](https://github.com/santigarcor)/[**laravel-vuetable**](https://github.com/santigarcor/laravel-vuetable)",
+              "The laravel backend for the vuetable component",
+              ""
+            ],
+            [
+              "9",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**ImagesManager**](https://github.com/JuanDMeGon/ImagesManager)",
+              "Repository for the Laravel 5.1 Course.",
+              ""
+            ],
+            [
+              "8",
+              "[@gigo6000](https://github.com/gigo6000)/[**symfony-facebook**](https://github.com/gigo6000/symfony-facebook)",
+              "This an example basic configuration of Symfony2 with FOSFacebookBundle and FOSUserBundle. It uses Mongo for the database",
+              ""
+            ],
+            [
+              "8",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**GestorImagenes**](https://github.com/JuanDMeGon/GestorImagenes)",
+              "Repositorio curso de Laravel. Crea un gestor de imágenes",
+              "[:arrow_upper_right:](https://www.udemy.com/curso-laravel-5-aprender-laravel-5/?couponCode=git)"
+            ],
+            [
+              "7",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**RESTful-API**](https://github.com/JuanDMeGon/RESTful-API)",
+              "Repositorio para la creación de una API RESTful completamente funcional con Laravel",
+              "[:arrow_upper_right:](https://www.udemy.com/api-restful-con-laravel-5-composer-apache-nginx-mysql-git-y-github/?couponCode=earlyAdopter)"
+            ],
+            [
+              "6",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**LumenAPI**](https://github.com/JuanDMeGon/LumenAPI)",
+              "Repositorio del Curso de APIs RESTful con Lumen y Homestead.",
+              "[:arrow_upper_right:](https://www.udemy.com/api-restful-lumen-homestead-laravel/?couponCode=new-social)"
+            ],
+            [
+              "5",
+              "[@WebMaestroFr](https://github.com/WebMaestroFr)/[**Travel-Routes-Wordpr…**](https://github.com/WebMaestroFr/Travel-Routes-Wordpress-Plugin)",
+              "Display your travels on customizable maps !",
+              ""
+            ],
+            [
+              "5",
+              "[@epayco](https://github.com/epayco)/[**epayco-php**](https://github.com/epayco/epayco-php)",
+              "PHP wrapper for Epayco API",
+              "[:arrow_upper_right:](https://epayco.co/docs/api/)"
+            ],
+            [
+              "5",
+              "[@talcual](https://github.com/talcual)/[**EasyApi**](https://github.com/talcual/EasyApi)",
+              "Easy Api - Pack for Dev Apis in PHP Easy and Custom",
+              ""
+            ],
+            [
+              "5",
+              "[@gigo6000](https://github.com/gigo6000)/[**DevtimeRatingBundle**](https://github.com/gigo6000/DevtimeRatingBundle)",
+              "This bundle provides a rating form field type for your Symfony2 project. It uses the jquery raty plugin.",
+              ""
+            ],
+            [
+              "4",
+              "[@wvega](https://github.com/wvega)/[**jsfiddle-shortcode**](https://github.com/wvega/jsfiddle-shortcode)",
+              "A WordPress plugin to easily embed Fiddles",
+              ""
+            ],
+            [
+              "4",
+              "[@WebMaestroFr](https://github.com/WebMaestroFr)/[**json-schema-mysql**](https://github.com/WebMaestroFr/json-schema-mysql)",
+              "A small PHP class to create MySQL tables from JSON schemas",
+              ""
+            ],
+            [
+              "4",
+              "[@juanblo](https://github.com/juanblo)/[**drupal-doctrine**](https://github.com/juanblo/drupal-doctrine)",
+              "Drupal and Doctrine integration module",
+              ""
+            ],
+            [
+              "4",
+              "[@WebMaestroFr](https://github.com/WebMaestroFr)/[**wm-sass-compiler**](https://github.com/WebMaestroFr/wm-sass-compiler)",
+              "SASS Compiler for WordPress",
+              "[:arrow_upper_right:](https://blog.webmaestro.fr/sass-compiler-wordpress/)"
+            ],
+            [
+              "3",
+              "[@mpratt](https://github.com/mpratt)/[**prestashop-importer-…**](https://github.com/mpratt/prestashop-importer-kit)",
+              "Minimal Importer Kit.",
+              ""
+            ],
+            [
+              "3",
+              "[@luismec90](https://github.com/luismec90)/[**bmi**](https://github.com/luismec90/bmi)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**NamesAPI**](https://github.com/JuanDMeGon/NamesAPI)",
+              "RESTful API developed in Laravel to provide metadata about some names around the world. The project use MongoDB as database manager.",
+              ""
+            ],
+            [
+              "3",
+              "[@luismec90](https://github.com/luismec90)/[**laravel-todo-app-bes…**](https://github.com/luismec90/laravel-todo-app-best-practices)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**HttpClient**](https://github.com/JuanDMeGon/HttpClient)",
+              "This is the repository for the course about HTTP Clients, using Laravel",
+              ""
+            ],
+            [
+              "2",
+              "[@prinick96](https://github.com/prinick96)/[**xnova**](https://github.com/prinick96/xnova)",
+              "Repositorio oficial del core de xNova Revolution.",
+              ""
+            ],
+            [
+              "2",
+              "[@nsxa](https://github.com/nsxa)/[**jadeframework**](https://github.com/nsxa/jadeframework)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@joselfonseca](https://github.com/joselfonseca)/[**fonck-toolbox**](https://github.com/joselfonseca/fonck-toolbox)",
+              "Framework Agnostic Services to model php applications. THIS IS AN EXPERIMENTAL PROJECT, DO NOT USE THIS FOR A PRODUCTION APP [DEPRECATED]",
+              ""
+            ],
+            [
+              "2",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**API-RESTful-Laravel-…**](https://github.com/JuanDMeGon/API-RESTful-Laravel-5.5)",
+              "Código resultante del curso sobre APIs RESTful con Laravel 5.5 de EscuelaIT",
+              ""
+            ],
+            [
+              "2",
+              "[@JuanDMeGon](https://github.com/JuanDMeGon)/[**ClienteHTTP**](https://github.com/JuanDMeGon/ClienteHTTP)",
+              "Este repositorio posee el código fuente del proyecto implementado, durante el curso: \" Clientes HTTP: Usa y Consume Servicios Web y APIs con PHP\"",
+              "[:arrow_upper_right:](https://www.udemy.com/clientes-http-con-laravel-servicios-y-apis/?couponCode=launch-social)"
+            ],
+            [
+              "2",
+              "[@jairoserrano](https://github.com/jairoserrano)/[**HPCFront**](https://github.com/jairoserrano/HPCFront)",
+              "Portal del laboratorio de computación de alto desempeño UTB",
+              "[:arrow_upper_right:](http://hpclab.unitecnologica.edu.co)"
+            ],
+            [
+              "2",
+              "[@talcual](https://github.com/talcual)/[**PHP-Examples**](https://github.com/talcual/PHP-Examples)",
+              "PHP Examples.... Frameworks, Patterns, Functions, Utils, etc...",
+              ""
+            ],
+            [
+              "2",
+              "[@enav](https://github.com/enav)/[**jn-fields**](https://github.com/enav/jn-fields)",
+              "Joomla! content plugin to create custom fields for articles, modules and menu items.",
+              ""
+            ],
+            [
+              "2",
+              "[@robregonm](https://github.com/robregonm)/[**Yii-EmailLogRoute**](https://github.com/robregonm/Yii-EmailLogRoute)",
+              "Extension for CEmailLogRoute Yii class in order to add more details to Errors.",
               ""
             ]
           ]
