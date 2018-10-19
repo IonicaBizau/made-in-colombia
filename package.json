@@ -39,5 +39,764 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-colombia/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "590",
+              "[@caroso1222](https://github.com/caroso1222)/[**notyf**](https://github.com/caroso1222/notyf)",
+              "👻     A dead simple, responsive, vanilla JavaScript plugin to show notifications.",
+              "[:arrow_upper_right:](http://carlosroso.com/notyf/)"
+            ],
+            [
+              "346",
+              "[@caroso1222](https://github.com/caroso1222)/[**amazon-autocomplete**](https://github.com/caroso1222/amazon-autocomplete)",
+              "🚀  Unlock the full power of the Amazon autocompletion engine right into your search input. JavaScript Plugin.",
+              "[:arrow_upper_right:](http://carlosroso.com/amazon-autocomplete)"
+            ],
+            [
+              "211",
+              "[@ojack](https://github.com/ojack)/[**hydra**](https://github.com/ojack/hydra)",
+              "Livecoding networked visuals in the browser",
+              "[:arrow_upper_right:](https://hydra-editor-v1.glitch.me/)"
+            ],
+            [
+              "194",
+              "[@jdnichollsc](https://github.com/jdnichollsc)/[**Ionic-Starter-Templa…**](https://github.com/jdnichollsc/Ionic-Starter-Template)",
+              " Reinventing the wheel, again! Sorry Ionic Team... but there are many newbies learning on Youtube!",
+              "[:arrow_upper_right:](http://market.ionic.io/starters/ionic-starter-template)"
+            ],
+            [
+              "190",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**node-fb-messenger**](https://github.com/DiegoRBaquero/node-fb-messenger)",
+              ":envelope: Facebook Messenger Platform Node.js API Wrapper",
+              ""
+            ],
+            [
+              "157",
+              "[@agar3s](https://github.com/agar3s)/[**devil-glitches**](https://github.com/agar3s/devil-glitches)",
+              "My entry for the js13k 2016 game jam",
+              ""
+            ],
+            [
+              "123",
+              "[@caroso1222](https://github.com/caroso1222)/[**ng-lib-schematics**](https://github.com/caroso1222/ng-lib-schematics)",
+              "🔥 Easily create Angular libraries using Schematics",
+              ""
+            ],
+            [
+              "93",
+              "[@jdnichollsc](https://github.com/jdnichollsc)/[**Phaser-Kinetic-Scrol…**](https://github.com/jdnichollsc/Phaser-Kinetic-Scrolling-Plugin)",
+              "Kinetic Scrolling plugin for Canvas using Phaser Framework",
+              "[:arrow_upper_right:](https://jdnichollsc.github.io/Phaser-Kinetic-Scrolling-Plugin/)"
+            ],
+            [
+              "56",
+              "[@jdnichollsc](https://github.com/jdnichollsc)/[**Ionic-ElastiChat-wit…**](https://github.com/jdnichollsc/Ionic-ElastiChat-with-Images)",
+              "Ionic Magic Chat with Angular Elastic, Autolinker.js and more!",
+              "[:arrow_upper_right:](http://market.ionic.io/plugins/ionic-elastichat-images)"
+            ],
+            [
+              "44",
+              "[@john-guerra](https://github.com/john-guerra)/[**forceInABox**](https://github.com/john-guerra/forceInABox)",
+              "d3 force plugin that implements the GroupInABox algorithm that distributes nodes using a treemap to identify better clusters",
+              ""
+            ],
+            [
+              "43",
+              "[@caroso1222](https://github.com/caroso1222)/[**ngx-cool-dialogs**](https://github.com/caroso1222/ngx-cool-dialogs)",
+              "🎉Alert, confirm and prompt dialogs for Angular. Simple as that.",
+              "[:arrow_upper_right:](https://ngx-cool-dialogs.carlosroso.com/)"
+            ],
+            [
+              "41",
+              "[@ojack](https://github.com/ojack)/[**PIXELSYNTH**](https://github.com/ojack/PIXELSYNTH)",
+              "",
+              ""
+            ],
+            [
+              "36",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**uWebTorrentTracker**](https://github.com/DiegoRBaquero/uWebTorrentTracker)",
+              "🔆 Simple, robust, WebTorrent tracker server implementation",
+              "[:arrow_upper_right:](https://tracker.btorrent.xyz/stats)"
+            ],
+            [
+              "33",
+              "[@agar3s](https://github.com/agar3s)/[**marioPhaser**](https://github.com/agar3s/marioPhaser)",
+              "A simple test for phaser creating a Super Mario Bros clone.",
+              ""
+            ],
+            [
+              "30",
+              "[@gmoralesc](https://github.com/gmoralesc)/[**creando-apis-con-nod…**](https://github.com/gmoralesc/creando-apis-con-node-js)",
+              "📗Creando APIs con Node JS, Express y MongoDB",
+              "[:arrow_upper_right:](https://legacy.gitbook.com/book/gmoralesc/creando-apis-con-node-js-express-y-mongodb/details)"
+            ],
+            [
+              "23",
+              "[@alejo8591](https://github.com/alejo8591)/[**unipiloto-apm-4**](https://github.com/alejo8591/unipiloto-apm-4)",
+              "Repositorio y Base del Conocimiento para el Diplomado de Desarrollo de Aplicaciones Móviles Cross-Platform AM-4",
+              ""
+            ],
+            [
+              "23",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**node-v**](https://github.com/DiegoRBaquero/node-v)",
+              "🔒 Secure ❄️ Synchronized ⚡️ Realtime ☁️ Cloud 🌈 Native JavaScript Variables & Events",
+              ""
+            ],
+            [
+              "23",
+              "[@khriztianmoreno](https://github.com/khriztianmoreno)/[**nodejs-scaffolding**](https://github.com/khriztianmoreno/nodejs-scaffolding)",
+              "A node.js sample application that demonstrates an architecture for building a complete production API with Node.JS, Express.JS and MongoDB",
+              ""
+            ],
+            [
+              "22",
+              "[@khriztianmoreno](https://github.com/khriztianmoreno)/[**ecommerce-react-nati…**](https://github.com/khriztianmoreno/ecommerce-react-native)",
+              "The ideal starter kit / app script with all the needed UI elements alongwith MobX and NativeBase to build your iOS and Android e-commerce app like Mona / JackThreads / Canopy / Flipp",
+              ""
+            ],
+            [
+              "22",
+              "[@gmoralesc](https://github.com/gmoralesc)/[**introduccion-a-node-…**](https://github.com/gmoralesc/introduccion-a-node-js)",
+              "📗Código fuente de los ejercicios del libro Introducción a Node JS",
+              "[:arrow_upper_right:](https://www.gitbook.com/book/gmoralesc/introduccion-a-node-js/details)"
+            ],
+            [
+              "20",
+              "[@gmoralesc](https://github.com/gmoralesc)/[**node-auth**](https://github.com/gmoralesc/node-auth)",
+              "Example of Node JS Authentication app with JWT",
+              ""
+            ],
+            [
+              "20",
+              "[@ojack](https://github.com/ojack)/[**LiveLab**](https://github.com/ojack/LiveLab)",
+              "",
+              "[:arrow_upper_right:](https://livelab.glitch.me/)"
+            ],
+            [
+              "20",
+              "[@john-guerra](https://github.com/john-guerra)/[**netClusteringJs**](https://github.com/john-guerra/netClusteringJs)",
+              "A network analytics for javascript",
+              ""
+            ],
+            [
+              "19",
+              "[@gmoralesc](https://github.com/gmoralesc)/[**node-basic-boilerpla…**](https://github.com/gmoralesc/node-basic-boilerplate-docker)",
+              "Basic boilerplate to develop Node JS app with Docker",
+              ""
+            ],
+            [
+              "19",
+              "[@gmoralesc](https://github.com/gmoralesc)/[**costelog**](https://github.com/gmoralesc/costelog)",
+              "Get random sentence from Costeño idioms for your log",
+              ""
+            ],
+            [
+              "17",
+              "[@ojack](https://github.com/ojack)/[**selfie-apocalypse**](https://github.com/ojack/selfie-apocalypse)",
+              "",
+              ""
+            ],
+            [
+              "17",
+              "[@edsadr](https://github.com/edsadr)/[**graphql101**](https://github.com/edsadr/graphql101)",
+              "A gentle introduction to a different API paradigm",
+              ""
+            ],
+            [
+              "15",
+              "[@john-guerra](https://github.com/john-guerra)/[**d3BrushAndLinkingExa…**](https://github.com/john-guerra/d3BrushAndLinkingExample)",
+              "A step by step tutorial on how to do brushing and linking on d3",
+              "[:arrow_upper_right:](http://johnguerra.co/viz/d3BrushAndLinking/)"
+            ],
+            [
+              "15",
+              "[@agar3s](https://github.com/agar3s)/[**js13k2018**](https://github.com/agar3s/js13k2018)",
+              "Without a code name... yet...",
+              ""
+            ],
+            [
+              "14",
+              "[@alejo8591](https://github.com/alejo8591)/[**unipiloto-am-3**](https://github.com/alejo8591/unipiloto-am-3)",
+              "Repositorio y Base del Conocimiento para el Diplomado de Desarrollo de Aplicaciones Móviles Cross-Platform AM-3",
+              ""
+            ],
+            [
+              "13",
+              "[@john-guerra](https://github.com/john-guerra)/[**navio**](https://github.com/john-guerra/navio)",
+              "A d3 visualization widget to help summarizing, exploring and navigating large network visualizations",
+              "[:arrow_upper_right:](http://john-guerra.github.io/Navio)"
+            ],
+            [
+              "13",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**node-bogota**](https://github.com/DiegoRBaquero/node-bogota)",
+              "🚀 Run tape tests concurrently with tap-spec output",
+              ""
+            ],
+            [
+              "11",
+              "[@alejo8591](https://github.com/alejo8591)/[**unipiloto-am-2**](https://github.com/alejo8591/unipiloto-am-2)",
+              "Repositorio Oficial para el Diplomado en Desarrollo de Aplicaciones Móviles (AM-2)",
+              ""
+            ],
+            [
+              "11",
+              "[@ojack](https://github.com/ojack)/[**hydra-synth**](https://github.com/ojack/hydra-synth)",
+              "Synth engine for hydra",
+              ""
+            ],
+            [
+              "11",
+              "[@jdnichollsc](https://github.com/jdnichollsc)/[**Game-of-Drones**](https://github.com/jdnichollsc/Game-of-Drones)",
+              "Conquer your enemy! - Ionic, Node.js, MongoDB (Mongoosejs), Unit and E2E Tests",
+              ""
+            ],
+            [
+              "11",
+              "[@agar3s](https://github.com/agar3s)/[**vier**](https://github.com/agar3s/vier)",
+              "Game for the js13k challenge 2014, Fight against elemental enemies in a brutal pixelated world. ",
+              ""
+            ],
+            [
+              "10",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**PeerTube**](https://github.com/DiegoRBaquero/PeerTube)",
+              "YouTube Clone using WebTorrent",
+              ""
+            ],
+            [
+              "10",
+              "[@ojack](https://github.com/ojack)/[**hydra-examples**](https://github.com/ojack/hydra-examples)",
+              "Examples for using hydra within atom",
+              ""
+            ],
+            [
+              "10",
+              "[@agar3s](https://github.com/agar3s)/[**phaser3-jam-boilerpl…**](https://github.com/agar3s/phaser3-jam-boilerplate)",
+              "Basic boilerplate ready to go for game jams 💪",
+              ""
+            ],
+            [
+              "9",
+              "[@john-guerra](https://github.com/john-guerra)/[**revealVizScrollyteli…**](https://github.com/john-guerra/revealVizScrollyteling)",
+              "Reveal.js plugin for scrollyteling visualization",
+              ""
+            ],
+            [
+              "9",
+              "[@john-guerra](https://github.com/john-guerra)/[**vastChallenge2017_ex…**](https://github.com/john-guerra/vastChallenge2017_example)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@gmoralesc](https://github.com/gmoralesc)/[**photobook-api**](https://github.com/gmoralesc/photobook-api)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@cdiaz](https://github.com/cdiaz)/[**trmcol**](https://github.com/cdiaz/trmcol)",
+              "Modulo para Nodejs que obtiene la Tasa de cambio representativa del mercado (TRM) para Colombia",
+              ""
+            ],
+            [
+              "8",
+              "[@jdnichollsc](https://github.com/jdnichollsc)/[**Roxy-Fileman-for-Nod…**](https://github.com/jdnichollsc/Roxy-Fileman-for-Node.js)",
+              "Roxy Fileman, upload and manage files with Node.js!",
+              "[:arrow_upper_right:](http://www.roxyfileman.com)"
+            ],
+            [
+              "8",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**node-os**](https://github.com/DiegoRBaquero/node-os)",
+              "NodeJS Core Module",
+              ""
+            ],
+            [
+              "7",
+              "[@nicobytes](https://github.com/nicobytes)/[**chatIonicFirebase**](https://github.com/nicobytes/chatIonicFirebase)",
+              "Chat Firebase Auth + Firebase Database (Ionic 2 + AngularFire2 + Firebase 3)",
+              "[:arrow_upper_right:](http://www.ion-book.com/launcher/chat-firebase/)"
+            ],
+            [
+              "7",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**uniandes-auto-wifi**](https://github.com/DiegoRBaquero/uniandes-auto-wifi)",
+              "Aplicación para conectarse automáticamente a SENECA",
+              ""
+            ],
+            [
+              "7",
+              "[@alejo8591](https://github.com/alejo8591)/[**periodontal-chart**](https://github.com/alejo8591/periodontal-chart)",
+              "Periodontal chart for dentist app",
+              ""
+            ],
+            [
+              "6",
+              "[@alejandronanez](https://github.com/alejandronanez)/[**react-voteit**](https://github.com/alejandronanez/react-voteit)",
+              "React.js + Firebase voting application",
+              ""
+            ],
+            [
+              "6",
+              "[@ojack](https://github.com/ojack)/[**atom-hydra**](https://github.com/ojack/atom-hydra)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@juandc](https://github.com/juandc)/[**aerostore**](https://github.com/juandc/aerostore)",
+              "🎨 Aerostore - Aerolab Challenge using Next.js and Micro.js from Zeit",
+              "[:arrow_upper_right:](https://aerostore.now.sh)"
+            ],
+            [
+              "6",
+              "[@davsket](https://github.com/davsket)/[**simpleautocomplete**](https://github.com/davsket/simpleautocomplete)",
+              "Simple Auto Complete, a simple autocomplete that completes inside the input.",
+              "[:arrow_upper_right:](http://davsket.github.com/simpleautocomplete)"
+            ],
+            [
+              "6",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**node-1337**](https://github.com/DiegoRBaquero/node-1337)",
+              "Node leet speak conversion",
+              ""
+            ],
+            [
+              "5",
+              "[@ojack](https://github.com/ojack)/[**hydra-sync**](https://github.com/ojack/hydra-sync)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@john-guerra](https://github.com/john-guerra)/[**meteorMultiplayerBoa…**](https://github.com/john-guerra/meteorMultiplayerBoard)",
+              "An example of a multiplayer board \"game\" using Meteor (Just for educational purposes)",
+              ""
+            ],
+            [
+              "5",
+              "[@john-guerra](https://github.com/john-guerra)/[**d3ReusableChartExamp…**](https://github.com/john-guerra/d3ReusableChartExample)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@john-guerra](https://github.com/john-guerra)/[**visPubNetwork**](https://github.com/john-guerra/visPubNetwork)",
+              "Citation Network of the IEEE Vis papers",
+              "[:arrow_upper_right:](http://johnguerra.co/viz/visPubNetwork/)"
+            ],
+            [
+              "5",
+              "[@mafesernaarboleda](https://github.com/mafesernaarboleda)/[**react-api-git**](https://github.com/mafesernaarboleda/react-api-git)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@john-guerra](https://github.com/john-guerra)/[**resultadosPrimeraVue…**](https://github.com/john-guerra/resultadosPrimeraVuelta2018)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@jdnichollsc](https://github.com/jdnichollsc)/[**Phaser-Rotate-Sprite…**](https://github.com/jdnichollsc/Phaser-Rotate-Sprite-Extension)",
+              "Rotate Sprite Extension for Phaser Framework",
+              ""
+            ],
+            [
+              "5",
+              "[@alejandronanez](https://github.com/alejandronanez)/[**instagram-clone**](https://github.com/alejandronanez/instagram-clone)",
+              "Instagram clone.",
+              ""
+            ],
+            [
+              "5",
+              "[@jdnichollsc](https://github.com/jdnichollsc)/[**Meteor-Starter-Templ…**](https://github.com/jdnichollsc/Meteor-Starter-Template)",
+              "A template to start with Meteor",
+              ""
+            ],
+            [
+              "4",
+              "[@caroso1222](https://github.com/caroso1222)/[**dribbble-autozoom-ch…**](https://github.com/caroso1222/dribbble-autozoom-chrome-ext)",
+              "Google Chrome extension for automagically zooming any Dribbble shot",
+              "[:arrow_upper_right:](https://chrome.google.com/webstore/detail/dribbble-autozoom-extensi/blmgbjebcflfapdhgnldmogaieaagioa)"
+            ],
+            [
+              "4",
+              "[@jdnichollsc](https://github.com/jdnichollsc)/[**Ionic-Drag-and-Drop**](https://github.com/jdnichollsc/Ionic-Drag-and-Drop)",
+              "Ionic Drag and drop directive using GSAP",
+              ""
+            ],
+            [
+              "4",
+              "[@Jorger](https://github.com/Jorger)/[**the_brick_web**](https://github.com/Jorger/the_brick_web)",
+              ":video_game: The Brick Web",
+              ""
+            ],
+            [
+              "4",
+              "[@juandc](https://github.com/juandc)/[**RAF**](https://github.com/juandc/RAF)",
+              "🎁 An Apollo GraphQL example using React and FakerQl. - 👷 Under construction",
+              ""
+            ],
+            [
+              "4",
+              "[@Jorger](https://github.com/Jorger)/[**Calculator_The_Game_…**](https://github.com/Jorger/Calculator_The_Game_ReactJS)",
+              ":bulb: Calculator The Game - ReactJS",
+              "[:arrow_upper_right:](https://calculator-game-reactjs.now.sh/)"
+            ],
+            [
+              "4",
+              "[@alejandronanez](https://github.com/alejandronanez)/[**react-youtube**](https://github.com/alejandronanez/react-youtube)",
+              "Youtube player using React.js",
+              ""
+            ],
+            [
+              "4",
+              "[@davsket](https://github.com/davsket)/[**notes**](https://github.com/davsket/notes)",
+              "ultra basic text editor",
+              ""
+            ],
+            [
+              "4",
+              "[@john-guerra](https://github.com/john-guerra)/[**ColombiaVisualizatio…**](https://github.com/john-guerra/ColombiaVisualizationReact)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@AlejoJamC](https://github.com/AlejoJamC)/[**avaritiaUI**](https://github.com/AlejoJamC/avaritiaUI)",
+              "Credit simulator for personal banking (User Interface),  Node.js, Express.js, jade",
+              ""
+            ],
+            [
+              "3",
+              "[@juandc](https://github.com/juandc)/[**next-on-firebase**](https://github.com/juandc/next-on-firebase)",
+              ":fire: Next.js and next-routes with Firebase Hosting on Cloud Functions",
+              "[:arrow_upper_right:](https://next-on-firebase-5b73e.firebaseapp.com/)"
+            ],
+            [
+              "3",
+              "[@alejandronanez](https://github.com/alejandronanez)/[**no-ng-store**](https://github.com/alejandronanez/no-ng-store)",
+              "AngularJs shopping cart sample application.",
+              ""
+            ],
+            [
+              "3",
+              "[@alejandronanez](https://github.com/alejandronanez)/[**ember-hub**](https://github.com/alejandronanez/ember-hub)",
+              "Ember.js Github Explorer + Semantic UI",
+              ""
+            ],
+            [
+              "3",
+              "[@Jorger](https://github.com/Jorger)/[**Clocks_Reactjs**](https://github.com/Jorger/Clocks_Reactjs)",
+              ":clock2: Clocks ReactJS",
+              "[:arrow_upper_right:](https://jorger.github.io/Clocks_Reactjs/build/)"
+            ],
+            [
+              "3",
+              "[@davsket](https://github.com/davsket)/[**model-schema**](https://github.com/davsket/model-schema)",
+              "Simple Javascript Model Schema",
+              "[:arrow_upper_right:](http://davsket.me/model-schema/)"
+            ],
+            [
+              "3",
+              "[@john-guerra](https://github.com/john-guerra)/[**eliminatoriaConmebol…**](https://github.com/john-guerra/eliminatoriaConmebolRusia2018)",
+              "Una visualización de los resultados de la eliminatoria Conmebol al mundial Rusia 2018",
+              "[:arrow_upper_right:](http://johnguerra.co/viz/eliminatoriaMundial/)"
+            ],
+            [
+              "3",
+              "[@UnJavaScripter](https://github.com/UnJavaScripter)/[**webWorker-fetch-apis**](https://github.com/UnJavaScripter/webWorker-fetch-apis)",
+              "Ejemplo usando los API de web worker y fetch",
+              ""
+            ],
+            [
+              "3",
+              "[@nicobytes](https://github.com/nicobytes)/[**jsconf**](https://github.com/nicobytes/jsconf)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@edsadr](https://github.com/edsadr)/[**Meteor-Rock-Paper-Sc…**](https://github.com/edsadr/Meteor-Rock-Paper-Scissors)",
+              "This is a simple application allowing multiple users to play and watch rock, paper, scissors games, it allows users to create accounts or login using GitHub.",
+              ""
+            ],
+            [
+              "3",
+              "[@john-guerra](https://github.com/john-guerra)/[**momaExplorer**](https://github.com/john-guerra/momaExplorer)",
+              "A simple app to explore the MOMA open collection",
+              ""
+            ],
+            [
+              "3",
+              "[@AlejoJamC](https://github.com/AlejoJamC)/[**avaritia**](https://github.com/AlejoJamC/avaritia)",
+              "Credit simulator for personal banking, Node.js, Express.js, jade, Passport.js",
+              ""
+            ],
+            [
+              "3",
+              "[@edsadr](https://github.com/edsadr)/[**change-api**](https://github.com/edsadr/change-api)",
+              "Change.org API client - module for io.js/NodeJS",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/change-api)"
+            ],
+            [
+              "3",
+              "[@ojack](https://github.com/ojack)/[**cloth-map**](https://github.com/ojack/cloth-map)",
+              "modelling the streets of manhattan as a cloth in ThreeJS",
+              "[:arrow_upper_right:](http://ojack.github.io/cloth-map)"
+            ],
+            [
+              "3",
+              "[@davsket](https://github.com/davsket)/[**webcam-experiments**](https://github.com/davsket/webcam-experiments)",
+              "Repo con experimentos de webcam con canvas",
+              ""
+            ],
+            [
+              "3",
+              "[@ojack](https://github.com/ojack)/[**intermedia-redes**](https://github.com/ojack/intermedia-redes)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@khriztianmoreno](https://github.com/khriztianmoreno)/[**meteor-charts**](https://github.com/khriztianmoreno/meteor-charts)",
+              "Graphics in real time variables of a sensor",
+              ""
+            ],
+            [
+              "3",
+              "[@khriztianmoreno](https://github.com/khriztianmoreno)/[**matter-supply-code-c…**](https://github.com/khriztianmoreno/matter-supply-code-challenge)",
+              ":computer: Code Challenge - FronEnd / JS TECHNOLOGIST",
+              "[:arrow_upper_right:](https://code-challenge-ms-fblfsfuffe.now.sh/)"
+            ],
+            [
+              "3",
+              "[@agar3s](https://github.com/agar3s)/[**TheDemocracyTimes**](https://github.com/agar3s/TheDemocracyTimes)",
+              "Spread the truth",
+              ""
+            ],
+            [
+              "3",
+              "[@juandc](https://github.com/juandc)/[**PlatziMusic**](https://github.com/juandc/PlatziMusic)",
+              ":heart: React Native application using the last.fm API (course in Platzi)",
+              ""
+            ],
+            [
+              "3",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**node-vm**](https://github.com/DiegoRBaquero/node-vm)",
+              "NodeJS Core Module",
+              ""
+            ],
+            [
+              "3",
+              "[@erikagtierrez](https://github.com/erikagtierrez)/[**electron-angularcli-…**](https://github.com/erikagtierrez/electron-angularcli-boilerplate)",
+              "Boilerplate for electron using Angular CLI :heart:",
+              ""
+            ],
+            [
+              "3",
+              "[@john-guerra](https://github.com/john-guerra)/[**visual-analytics-cou…**](https://github.com/john-guerra/visual-analytics-course)",
+              "My slides for my visual analytics course",
+              ""
+            ],
+            [
+              "3",
+              "[@AlejoJamC](https://github.com/AlejoJamC)/[**MoonServer**](https://github.com/AlejoJamC/MoonServer)",
+              "Open source project to do an approach of a Document Management System (DMS), initially to handle employee engagement department, written in JavaScript (Node.js, Express.js), HTML and CSS. [Server]",
+              ""
+            ],
+            [
+              "3",
+              "[@epsanchezma](https://github.com/epsanchezma)/[**ChatNode**](https://github.com/epsanchezma/ChatNode)",
+              "Simple chat example with Node.js and socket.io, where the clients are created and talk to each other automatically",
+              ""
+            ],
+            [
+              "2",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**node-dinli**](https://github.com/DiegoRBaquero/node-dinli)",
+              "Wrapper for the Dinli URL Shortener",
+              ""
+            ],
+            [
+              "2",
+              "[@mafesernaarboleda](https://github.com/mafesernaarboleda)/[**kafka-node-iot**](https://github.com/mafesernaarboleda/kafka-node-iot)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mafesernaarboleda](https://github.com/mafesernaarboleda)/[**api-express-scrappin…**](https://github.com/mafesernaarboleda/api-express-scrapping)",
+              "API Scrapping using express and cheerio ",
+              "[:arrow_upper_right:](https://scrapp-slide.herokuapp.com/api/scrap)"
+            ],
+            [
+              "2",
+              "[@juandc](https://github.com/juandc)/[**ntv**](https://github.com/juandc/ntv)",
+              "📺 NTV - Tvify",
+              "[:arrow_upper_right:](http://n-tv.herokuapp.com)"
+            ],
+            [
+              "2",
+              "[@AlejoJamC](https://github.com/AlejoJamC)/[**HappyAuth**](https://github.com/AlejoJamC/HappyAuth)",
+              "UNDER CONSTRUCTION! - Application for authentication and authorization ",
+              ""
+            ],
+            [
+              "2",
+              "[@nicobytes](https://github.com/nicobytes)/[**slides-ionic2-fireba…**](https://github.com/nicobytes/slides-ionic2-firebase-3)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@romelperez](https://github.com/romelperez)/[**prhone-log**](https://github.com/romelperez/prhone-log)",
+              "Simple JavaScript logger",
+              ""
+            ],
+            [
+              "2",
+              "[@john-guerra](https://github.com/john-guerra)/[**untanglingTheHairbal…**](https://github.com/john-guerra/untanglingTheHairball)",
+              "The slides for my OpenVis 2017 talk",
+              ""
+            ],
+            [
+              "2",
+              "[@john-guerra](https://github.com/john-guerra)/[**visualAnalytics_24ho…**](https://github.com/john-guerra/visualAnalytics_24hours)",
+              "A 24 hours long Visual Analytics seminar",
+              ""
+            ],
+            [
+              "2",
+              "[@john-guerra](https://github.com/john-guerra)/[**twitterStreamerMeteo…**](https://github.com/john-guerra/twitterStreamerMeteor)",
+              "Meteor + Twitter Streamer",
+              ""
+            ],
+            [
+              "2",
+              "[@AlejoJamC](https://github.com/AlejoJamC)/[**tpaga-node**](https://github.com/AlejoJamC/tpaga-node)",
+              "Node.js library for Tpaga API calls",
+              ""
+            ],
+            [
+              "2",
+              "[@jdjuan](https://github.com/jdjuan)/[**sass-workshop**](https://github.com/jdjuan/sass-workshop)",
+              "Sass Workshop - Designing websites effectively: ",
+              "[:arrow_upper_right:](http://juandavidherrera.com/sass/slides)"
+            ],
+            [
+              "2",
+              "[@AlejoJamC](https://github.com/AlejoJamC)/[**basic-iot**](https://github.com/AlejoJamC/basic-iot)",
+              "Testing Adafruit DHT 22  sensor ",
+              ""
+            ],
+            [
+              "2",
+              "[@UnMalNick](https://github.com/UnMalNick)/[**ToDo**](https://github.com/UnMalNick/ToDo)",
+              "ToDo + Pony Express",
+              ""
+            ],
+            [
+              "2",
+              "[@gmoralesc](https://github.com/gmoralesc)/[**orangebox**](https://github.com/gmoralesc/orangebox)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@romelperez](https://github.com/romelperez)/[**ejemplos-promesas**](https://github.com/romelperez/ejemplos-promesas)",
+              "Ejemplos de Promesas en JavaScript.",
+              ""
+            ],
+            [
+              "2",
+              "[@alejandronanez](https://github.com/alejandronanez)/[**bp**](https://github.com/alejandronanez/bp)",
+              "ES6 Boilerplate.",
+              ""
+            ],
+            [
+              "2",
+              "[@romelperez](https://github.com/romelperez)/[**jest-workshop**](https://github.com/romelperez/jest-workshop)",
+              "Taller de introducción a Testing en JavaScript con la librería Jest",
+              ""
+            ],
+            [
+              "2",
+              "[@alejandronanez](https://github.com/alejandronanez)/[**doni**](https://github.com/alejandronanez/doni)",
+              "Get color names from hex values",
+              ""
+            ],
+            [
+              "2",
+              "[@UnJavaScripter](https://github.com/UnJavaScripter)/[**product-showcase**](https://github.com/UnJavaScripter/product-showcase)",
+              "An AngularJS 1.x app that showcases random products",
+              ""
+            ],
+            [
+              "2",
+              "[@alejandronanez](https://github.com/alejandronanez)/[**node-emails**](https://github.com/alejandronanez/node-emails)",
+              "Send emails with node.",
+              ""
+            ],
+            [
+              "2",
+              "[@angelbotto](https://github.com/angelbotto)/[**textkolor.js**](https://github.com/angelbotto/textkolor.js)",
+              "textKolor.js is a jquery plugin for generate color from normal string.",
+              ""
+            ],
+            [
+              "2",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**sequelize-express-fi…**](https://github.com/DiegoRBaquero/sequelize-express-findbyid)",
+              "Find by id using a sequelize model, returning 404 error if not found",
+              ""
+            ],
+            [
+              "2",
+              "[@davsket](https://github.com/davsket)/[**html5notes**](https://github.com/davsket/html5notes)",
+              "App para CParty",
+              ""
+            ],
+            [
+              "2",
+              "[@DiegoRBaquero](https://github.com/DiegoRBaquero)/[**ls-chunk-store**](https://github.com/DiegoRBaquero/ls-chunk-store)",
+              "Browser localStorage chunk store that is abstract-chunk-store compliant",
+              ""
+            ],
+            [
+              "2",
+              "[@davsket](https://github.com/davsket)/[**Grid**](https://github.com/davsket/Grid)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@juandc](https://github.com/juandc)/[**juandc.github.io**](https://github.com/juandc/juandc.github.io)",
+              ":hankey: Deprecated (but still working)...",
+              "[:arrow_upper_right:](http://juandc.co)"
+            ]
+          ]
+        }
+      }
+    ]
   }
 }
