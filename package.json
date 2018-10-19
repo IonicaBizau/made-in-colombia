@@ -61,7 +61,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -2540,6 +2541,39 @@
               "2",
               "[@echevemaster](https://github.com/echevemaster)/[**devhub**](https://github.com/echevemaster/devhub)",
               "Community site for FLOSS developers",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@dlizcano](https://github.com/dlizcano)/[**tuit_sentimiento**](https://github.com/dlizcano/tuit_sentimiento)",
+              "Opinion mining  for twitter in Spanish",
+              ""
+            ],
+            [
+              "2",
+              "[@haachicanoy](https://github.com/haachicanoy)/[**interdependence_circ…**](https://github.com/haachicanoy/interdependence_circos)",
+              "Interdependence analysis 2016 using circos and interactive plots",
+              ""
+            ],
+            [
+              "2",
+              "[@fhernanb](https://github.com/fhernanb)/[**cubm**](https://github.com/fhernanb/cubm)",
+              "R package to fit cub models using maximum likelihood method",
               ""
             ]
           ]
