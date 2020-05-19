@@ -421,7 +421,6 @@
 3 | [@luismec90](https://github.com/luismec90)/[**laravel-todo-app-bes…**](https://github.com/luismec90/laravel-todo-app-best-practices) |  |
 3 | [@JuanDMeGon](https://github.com/JuanDMeGon)/[**HttpClient**](https://github.com/JuanDMeGon/HttpClient) | This is the repository for the course about HTTP Clients, using Laravel |
 2 | [@prinick96](https://github.com/prinick96)/[**xnova**](https://github.com/prinick96/xnova) | Repositorio oficial del core de xNova Revolution. |
-2 | [@nsxa](https://github.com/nsxa)/[**jadeframework**](https://github.com/nsxa/jadeframework) |  |
 2 | [@joselfonseca](https://github.com/joselfonseca)/[**fonck-toolbox**](https://github.com/joselfonseca/fonck-toolbox) | Framework Agnostic Services to model php applications. THIS IS AN EXPERIMENTAL PROJECT, DO NOT USE THIS FOR A PRODUCTION APP [DEPRECATED] |
 2 | [@JuanDMeGon](https://github.com/JuanDMeGon)/[**API-RESTful-Laravel-…**](https://github.com/JuanDMeGon/API-RESTful-Laravel-5.5) | Código resultante del curso sobre APIs RESTful con Laravel 5.5 de EscuelaIT |
 2 | [@JuanDMeGon](https://github.com/JuanDMeGon)/[**ClienteHTTP**](https://github.com/JuanDMeGon/ClienteHTTP) | Este repositorio posee el código fuente del proyecto implementado, durante el curso: " Clientes HTTP: Usa y Consume Servicios Web y APIs con PHP" | [:arrow_upper_right:](https://www.udemy.com/clientes-http-con-laravel-servicios-y-apis/?couponCode=launch-social)
